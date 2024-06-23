@@ -1,0 +1,47 @@
+
+$body-max-width:                      2000px;
+
+$transition-timing-function:          ease-in-out;
+$transition-duration:                 .35s;
+
+$nav-height:                          46px;
+$nav-md-height:                       85px;
+
+$navpopup-toggler-h:                  3rem;
+$navpopup-toggler-w:                  3rem;
+$navpopup-toggler-t:                  1rem;
+$navpopup-toggler-r:                  1rem;
+
+$homepage-banner-w:                   300px;
+$homepage-sponsor-w:                  140px;
+
+
+$h2-font-size:                        1.6rem;
+
+$h3-font-size:                        1.2rem;
+$h3-p:                                $spacer/2 0;
+
+$icon-email-w:                        20px;
+$icon-email-h:                        15px;
+$icon-email-o:                        .8;
+
+$prg-icon-large-w:                    $icon-email-w;
+
+$prg-icon-timing-w:                   16px;
+$prg-icon-timing-h:                   20px;
+$prg-icon-aaai-w:                     24px;
+$prg-icon-aaai-h:                     24px;
+$prg-icon-acmdl-w:                    $prg-icon-aaai-w;
+$prg-icon-acmdl-h:                    $prg-icon-aaai-h;
+$prg-icon-sagepub-w:                  $prg-icon-aaai-w;
+$prg-icon-sagepub-h:                  $prg-icon-aaai-h;
+$prg-icon-springerlink-w:             $prg-icon-aaai-w;
+$prg-icon-springerlink-h:             $prg-icon-aaai-h;
+$prg-icon-info-w:                     $prg-icon-aaai-w;
+$prg-icon-info-h:                     $prg-icon-aaai-h;
+$prg-icon-link-w:                     18px;
+$prg-icon-link-h:                     18px;
+$prg-icon-cal-w:                      $prg-icon-link-w;
+$prg-icon-cal-h:                      $prg-icon-link-h;
+$prg-icon-info-sm-w:                  $prg-icon-link-w;
+$prg-icon-info-sm-h:                  $prg-icon-link-h;

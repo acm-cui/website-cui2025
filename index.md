@@ -23,38 +23,11 @@ menu:
         </p>
 
         <p>
-            The central theme of this year's conference is "Trustworthy Conversational Agents". It focuses on the crucial role that conversational agents (CAs) play in building trust between humans and machines. As CAs become increasingly prevalent, especially with the developments around large language models together with the aftermath of COVID-19 misinformation, ensuring that they are trustworthy, reliable, and ethical in our daily lives is essential.
+            The theme of this year's conference is “Weaving Conversations Through Tradition and Innovation”. This theme is a nod to the location of the conference – the Waterloo-Kitchener area, a place steeped in traditions that cross centuries, from Indigenous to Mennonite, but also a place that is nowadays associated with innovation (most famously the birthplace of the Blackberry and the revolution it has brought to connecting people through mobile communications). This arch connecting traditions to innovations is paralleled by the story of our own conference – while we are a new and innovative conference, our roots reach several decades into the past (and to the early days of voice processing, natural language interaction, and dialogue systems). We aim to weave traditions with innovations, much like the Mennonite communities with whom we’re sharing the area weave the quilts they are renowned for.
         </p>
-        
-        <p>
-            CUI {{ site.conference.year }} aims to inspire and promote innovative research and development in the area of trustworthy conversational agents, facilitating the creation of conversational agents that are more human-like, intelligent, and trustworthy. The conference further looks to bring together researchers, practitioners and industry experts to share their knowledge, ideas and experiences in designing, developing, and evaluating trustworthy conversational agents.
-        </p>
-        
-        <h2>Relevant topics</h2>
-    
-    <p>
-      Topics relevant to the conference include, but are not limited to:
-    </p>
-    
-	<ul>
-      <li>Natural language processing and understanding for CAs</lI>
-      <li>Designing conversational agents with ethical and privacy considerations</lI>
-      <li>Context-aware dialogue management for CAs</lI>
-      <li>Multimodal interaction design and user experience for CAs</lI>
-      <li>Personalization and user modelling for CAs</lI>
-      <li>Conversational agent evaluation metrics and methodologies</lI>
-      <li>Innovative use cases and applications of trustworthy CAs</lI>
-      <li>Human-AI collaboration and co-creation for CAs</lI>
-      <li>Large Language Models (LLMs)</lI>
-    </ul>
-		
-		<p>
-			We welcome any contributions to conversational interfaces, looking at the more difficult issues of equity, trustworthiness, and harm. These topics are timely as it is clear that the issues of trustworthy conversational agents are not diminishing post-COVID and with the widely available large language models.
-
-		</p>
 
 		<p>
-			We are planning an in-person event for 2024. <br>We hope you can join us!
+			We are planning an in-person event for {{ site.conference.year }}. <br>We hope you can join us!
 			<br><br>
 			ACM CUI {{ site.conference.year }} Organising Committee
 		</p>

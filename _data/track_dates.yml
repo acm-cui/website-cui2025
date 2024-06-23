@@ -1,0 +1,87 @@
+papers:
+  -  label: Abstracts and metadata due
+     date: 15th
+     extended_date: 22nd February 2024
+     homepage: true
+
+  -  label: Submissions due
+     date: 22nd
+     extended_date: 29th February 2024
+     homepage: true
+
+  -  label: Notifications sent
+     date: 28th March 2024
+
+  -  label: Conditionally-accepted drafts due
+     date: 18th April 2024
+     _extended_date: 9th May 2024
+
+  -  label: Final notifications
+     date: 9th May 2024
+
+  -  label: Camera ready/TAPS due
+     date: 23rd May 2024
+
+
+
+provocations:
+  -  label: Submissions due
+     date: 11th
+     extended_date: 18th April 2024
+     homepage: true
+
+  -  label: Notifications
+     date: 9th 
+     extended_date: 15th May 2024
+
+  -  label: Camera ready/TAPS due
+     date: 23rd May 2024
+
+short_papers:
+  -  label: Submissions due
+     date: 11th
+     extended_date: 18th April 2024
+     homepage: true
+
+  -  label: Notifications
+     date: 9th May 2024
+     _extended_date: 13th June 2024
+
+  -  label: Camera ready/TAPS due
+     date: 23rd May 2024
+     _extended_date: 20th June 2024
+
+workshops:
+  -  label: Submissions due
+     date: 7th
+     extended_date: 14th March 2024
+     homepage: true
+
+  -  label: Notifications
+     date: 28th March 2024
+
+  -  label: Camera ready/TAPS due
+     date: 18th April 2024
+
+  -  label: Workshops
+     date: 8th July 2024
+
+doctoral_consortium:
+  -  label: Applications due
+     date: 11th
+     extended_date: 18th April 2024
+     homepage: true
+
+  -  label: Notifications sent
+     date: 3rd June 2024
+
+  -  label: Doctoral Consortium
+     date: 8th July 2024
+
+featured_talks:
+  -  label: Submissions due
+     date: 21st May 2024
+     homepage: true
+
+  -  label: Notifications
+     date: 4th June 2024

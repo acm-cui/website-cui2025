@@ -26,17 +26,18 @@ menu:
             The theme of this year's conference is “Weaving Conversations Through Tradition and Innovation”. This theme is a nod to the location of the conference – the Waterloo-Kitchener area, a place steeped in traditions that cross centuries, from Indigenous to Mennonite, but also a place that is nowadays associated with innovation (most famously the birthplace of the Blackberry and the revolution it has brought to connecting people through mobile communications). This arch connecting traditions to innovations is paralleled by the story of our own conference – while we are a new and innovative conference, our roots reach several decades into the past (and to the early days of voice processing, natural language interaction, and dialogue systems). We aim to weave traditions with innovations, much like the Mennonite communities with whom we’re sharing the area weave the quilts they are renowned for.
         </p>
 	 <h2></h2>
-  <h2>Tracks and Deadlines:</h2>
+    		<h2>Tracks and Deadlines:</h2>
   		<ul>
-    			<li class="pt-3">Papers - February 2025</li>
-       			<li>Provocations - April 2025</li>
-	  		<li>Posters & Late-Breaking Works - Apr 2025</li>
-     			<li>Interactivity & Creativity - Apr 2025</li>
-			<li>Workshops - Feb 2025</li>
-   			<li>Tutorials - March 2025</li>
-      			<li>Doctoral Consortium - March 2025</li>	
-   
-       		<ul>
+    		<li class="pt-3">Papers - February 2025</li>
+       		<li>Provocations - April 2025</li>
+	  	<li>Posters & Late-Breaking Works - Apr 2025</li>
+     		<li>Interactivity & Creativity - Apr 2025</li>
+		<li>Workshops - Feb 2025</li>
+   		<li>Tutorials - March 2025</li>
+      		<li>Doctoral Consortium - March 2025</li>	   
+       		</ul>
+
+	<h2></h2>
 
 		<p>
 			We are planning an in-person event for {{ site.conference.year }}. <br>We hope you can join us!

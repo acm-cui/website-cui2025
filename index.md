@@ -107,7 +107,7 @@ menu:
 		</a>
 	
 
-		
+		<!-- comment sponsors
 		<h2 class="mt-5 text-center flex-grow-1">Sponsors</h2>
 		<!--
 		<div class="d-flex flex-row flex-items-basis-0">
@@ -152,6 +152,6 @@ Interdisciplinary Centre for Security, Reliability and Trust" class="mt-md-3 mt-
 		</div>
 		-->
 		
-		
+		end sponsor comment -->
 	</div>
 </div>

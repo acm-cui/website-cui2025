@@ -108,7 +108,7 @@ menu:
 	
 
 		<!-- comment sponsors
-		<h2 class="mt-5 text-center flex-grow-1">Sponsors</h2>
+		<h2 class="mt-5 text-center flex-grow-1">Sponsors</h2> -->
 		<!--
 		<div class="d-flex flex-row flex-items-basis-0">
 			<a href="https://www.fnr.lu/" title="ACM CUI {{ site.conference.year }} is sponsored by Luxembourg National Research Fund" class="flex-grow-1 flex-shrink-1">
@@ -117,26 +117,26 @@ menu:
 			</a>
 		</div>
 		-->
-		<div class="d-flex flex-row flex-items-basis-0">
+		<!-- <div class="d-flex flex-row flex-items-basis-0">
 			<a href="https://www.luxai.com" title="ACM CUI {{ site.conference.year }} is sponsored by the LuxAI" class="flex-grow-1 flex-shrink-1">
 				<img src="{{ "/assets/img/sponsors/sponsor-lux-light.png" | relative_url }}" alt="LuxAI" title="ACM CUI {{ site.conference.year }} is sponsored by LuxAI" class="mt-md-3 mt-5 d-dk-none homepage-sponsor">
 				<img src="{{ "/assets/img/sponsors/sponsor-lux-dark.png" | relative_url }}" alt="LuxAI" title="ACM CUI {{ site.conference.year }} is sponsored by LuxAI" class="mt-md-3 mt-5 d-lt-none homepage-sponsor">
 			</a>
-		</div>
+		</div> -->
 		
-		<div class="d-flex flex-row flex-items-basis-0 mx-auto">
+	<!--	<div class="d-flex flex-row flex-items-basis-0 mx-auto">
 			<a href="https://www.list.lu" title="ACM CUI {{ site.conference.year }} is sponsored by Luxembourg Institute of Science and Technology" class="flex-grow-1 flex-shrink-1">
 				<img src="{{ "/assets/img/sponsors/sponsor-list.png" | relative_url }}" alt="Luxembourg Institute of Science and Technology" title="ACM CUI {{ site.conference.year }} is sponsored by Luxembourg Institute of Science and Technology" class="mx-auto mt-md-3 mt-5 d-dk-none homepage-sponsor">
 				<img src="{{ "/assets/img/sponsors/sponsor-list-dark.png" | relative_url }}" alt="Luxembourg Institute of Science and Technology" title="ACM CUI {{ site.conference.year }} is sponsored by Luxembourg Institute of Science and Technology" class="mx-auto mt-md-3 mt-5 d-lt-none homepage-sponsor">
 			</a>
-		</div>
+		</div> -->
 
-		<div class="d-flex flex-row flex-items-basis-0">
+	<!--	<div class="d-flex flex-row flex-items-basis-0">
 			<a href="https://www.uni.lu" title="ACM CUI {{ site.conference.year }} is sponsored by the University of Luxembourg" class="flex-grow-1 flex-shrink-1">
 				<img src="{{ "/assets/img/sponsors/sponsor_uni_lu.png" | relative_url }}" alt="University of Luxembourg" title="ACM CUI {{ site.conference.year }} is sponsored by the University of Luxembourg" class="mt-md-3 mt-5 d-dk-none center homepage-sponsor">
 				<img src="{{ "/assets/img/sponsors/sponsor_uni_lu_dark.png" | relative_url }}" alt="University of Luxembourg" title="ACM CUI {{ site.conference.year }} is sponsored by the University of Luxembourg" class="mt-md-3 mt-5 d-lt-none homepage-sponsor">
 			</a>
-		</div>
+		</div> -->
 
 		<!--
 		<div class="d-flex flex-row flex-items-basis-0">
@@ -152,6 +152,6 @@ Interdisciplinary Centre for Security, Reliability and Trust" class="mt-md-3 mt-
 		</div>
 		-->
 		
-		end sponsor comment -->
+		
 	</div>
 </div>

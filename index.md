@@ -42,7 +42,7 @@ menu:
 		<p>
 			We are planning an in-person event for {{ site.conference.year }}. <br>We hope you can join us!
 			<br><br>
-   			<a href="https://forms.gle/MnYTTtLcHzNP8L4s5"><strong>Volunteer now for an organizing committee (OC) position! </strong>  </a><br><br>
+   			<a href="https://forms.gle/MnYTTtLcHzNP8L4s5"><strong>Volunteer now to join the organizing committee (OC)! </strong>  </a><br><br>
 			ACM CUI {{ site.conference.year }} Organising Committee
 		</p>
 

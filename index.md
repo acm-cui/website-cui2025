@@ -30,9 +30,9 @@ menu:
   		<ul>
     		<li class="pt-3">Papers - February 2025</li>
        		<li>Provocations - April 2025</li>
-	  	<li>Posters & Late-Breaking Works - Apr 2025</li>
-     		<li>Interactivity & Creativity - Apr 2025</li>
-		<li>Workshops - Feb 2025</li>
+	  	<li>Posters & Late-Breaking Works - April 2025</li>
+     		<li>Interactivity & Creativity - April 2025</li>
+		<li>Workshops - February 2025</li>
    		<li>Tutorials - March 2025</li>
       		<li>Doctoral Consortium - March 2025</li>	   
        		</ul>

@@ -12,7 +12,7 @@ menus:
   organisers:
     text: Organising Committee
     title: Volunteers leading the organisation and running of Conversational User Interfaces !!conference.year!!
-    weight: 0
+    weight: 1
 ---
 
 <p class="text-center">

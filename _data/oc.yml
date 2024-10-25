@@ -61,7 +61,7 @@
                 institution: University of Waterloo
                 country: Canada
                 image: cosmin-munteanu.jpg    
-              - name: alexandra-Andratis.jpg
+              - name: Alexandra Andratis
                 position: 
                 institution: University of Waterloo
                 country: Canada
@@ -118,7 +118,7 @@
                 image: amanat-ullah.jpg
               - name: Isabela Canellas da Motta
                 position: Full Professor
-                institution: Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria
+                institution: Instituto Nacional de Investigación y Tecnología
                 country: Spain
                 image: issabella-canellas.jpg
         accessibility:

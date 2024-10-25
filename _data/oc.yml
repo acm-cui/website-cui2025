@@ -90,7 +90,7 @@
                 position: Fund Manager
                 institution: University College Dublin
                 country: Ireland
-                image: noimage.jpg
+                image: philip-doyle.jpg
               - name: Paola Peña
                 position: PhD student
                 institution: University College Dublin
@@ -198,7 +198,12 @@ tracks:
                 position: Postdoctoral Fellow 
                 institution: University of Bremen
                 country: Germany
-                image: nima-zargham.jpg
+                image: nima-zargham.jpg            
+              - name: Joel Fischer
+                position: Professor of HCI
+                institution: University of Nottingham
+                country: United Kingdom
+                image: joel-fischer.jpg 
         postersdemos:
             label: Short and WIP Papers Chairs
             email: 

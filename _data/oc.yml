@@ -36,17 +36,17 @@
                 institution: University of Bedfordshire
                 country: United Kingdom
                 image: 
-      publications:
+        publications:
             label: Publications chairs
             email: ''
             contact: true
             people:
-            - name: Martin Porcheron
+              - name: Martin Porcheron
                 position: Senior User Experience Researcher
                 institution: Bold Insight
                 country: United Kingdom
                 image: martin-porcheron.jpg
-            - name: Christina Wei
+              - name: Christina Wei
                 position: PhD student
                 institution: University of Toronto
                 country: Canada
@@ -214,7 +214,7 @@ tracks:
                 institution: Northeastern University
                 country: USA
                 image: smit-desai.jpg
-               - name: Mahla Alizadeh
+              - name: Mahla Alizadeh
                 position: PhD student
                 institution: University of Siegen
                 country: Germany

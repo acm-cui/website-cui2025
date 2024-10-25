@@ -117,10 +117,10 @@
                 country: Canada
                 image: amanat-ullah.jpg
               - name: Isabela Canellas da Motta
-                position: Full Professor
-                institution: Instituto Nacional de Investigación y Tecnología
-                country: Spain
-                image: issabella-canellas.jpg
+                position: PhD Student
+                institution: Pontifícia Universidade Católica do Rio de Janeiro
+                country: Brazil
+                image: isabela-motta.jpg
         accessibility:
             Label: Accessibility Chairs
             email: 
@@ -132,7 +132,7 @@
                 country: Canada
                 image: rezvan-boostani.jpg
               - name: Somang Nam
-                position: somang-nam.jpg
+                position: Human Factors Researcher
                 institution: University of Toronto
                 country: Canada
                 image: somang-nam.jpg
@@ -180,9 +180,9 @@ tracks:
                 country: Canada
                 image: anastasia-kuzminykh.jpg
               - name: Jen Pearson
-                position: 
-                institution: 
-                country: 
+                position: Professor
+                institution: Swansea University
+                country: United Kingdom
                 image: noimage.jpg           
         provocations:
             label: Provocations chairs

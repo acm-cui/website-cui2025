@@ -9,18 +9,18 @@
               - name: Jaisie Sin
                 position: Assistant Professor
                 institution: Carleton University
-                country: Canada
-                image: 
+                country: Canada 
+                image: jaisie-sin.jpg
               - name: Edith Law
                 position: Associate Professor
                 institution: University of Waterloo
                 country: Canada
-                image: 
+                image: edith-law.jpg
               - name: Jim Wallace
                 position: Associate Professor
                 institution: University of Waterloo
                 country: Canadaa
-                image: 
+                image: jim-wallace.jpg
         programme:
             label: Programme chairs
             email: 'mailto:cui2025-programme@cui.acm.org'
@@ -30,12 +30,12 @@
                 position: Associate Professor
                 institution: University of Waterloo
                 country: Canada
-                image: 
+                image: cosmin-munteanu.jpg
               - name: Danai Korre
                 position: Lecturer in Computer Science
                 institution: University of Bedfordshire
                 country: United Kingdom
-                image: 
+                image: danai-korre.jpg
         publications:
             label: Publications chairs
             email: ''
@@ -60,12 +60,12 @@
                 position: Associate Professor
                 institution: University of Waterloo
                 country: Canada
-                image: Cosmin Munteanu
+                image: cosmin-munteanu.jpg    
               - name: alexandra-Andratis.jpg
                 position: 
                 institution: University of Waterloo
                 country: Canada
-                image: cosmin-munteanu.jpg
+                image: alexandra-andratis.jpg
         registration:
             label: Registration chairs
             email: 'mailto:cui2025-registration@cui.acm.org'
@@ -90,12 +90,12 @@
                 position: 
                 institution: 
                 country: 
-                image: no-pic.jpg
+                image: noimage.jpg
               - name: Paola Peña
                 position: 
                 institution: 
                 country: 
-                image: no-pic.jpg
+                image: noimage.jpg
         sv:
             label: Student Volunter chairs
             email: 'mailto:cui2025-sv@cui.acm.org'
@@ -135,7 +135,7 @@
                 position: somang-nam.jpg
                 institution: University of Toronto
                 country: Canada
-                image: rezvan-boostani.jpg
+                image: somang-nam.jpg
         socialmedia:
             label: Social Media & Web chairs
             email: 'mailto:cui2025-social@cui.acm.org'
@@ -150,7 +150,7 @@
                 position:  PhD Student
                 institution: University of Toronto
                 country: Canada
-                image: no-pic.jpg
+                image: noimage.jpg
         virtual:
             label: Virtual Experience chair
             email: 'mailto:cui2025-virtual@cui.acm.org'
@@ -160,7 +160,7 @@
                 position: Postdoctoral reseacher
                 institution: University of Oulu
                 country: Finland
-                image: justin-edwards
+                image: justin-edwards.jpg
 tracks:
     label: Track chairs
     roles:
@@ -173,7 +173,7 @@ tracks:
                 position: Post-Doctoral Fellow
                 institution: Carleton University
                 country: Canada
-                image:
+                image: christine-murad.jpg
               - name: Anastasia Kuzminykh
                 position: Assistant Professor
                 institution: University of Toronto
@@ -183,7 +183,7 @@ tracks:
                 position: 
                 institution: 
                 country: 
-                image: no-pic.jpg            
+                image: noimage.jpg           
         provocations:
             label: Provocations chairs
             email: 'mailto:cui2025-provocations@cui.acm.org'
@@ -243,7 +243,7 @@ tracks:
                 position: Assistant Professor
                 institution: Eindhoven University of Technology
                 country: Netherlands
-                image: miha-lee.jpg
+                image: minha-lee.jpg
               - name: Mateusz Dubiel
                 position: Rsearch Associate
                 institution: University of Luxembourg

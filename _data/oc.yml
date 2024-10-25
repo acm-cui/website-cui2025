@@ -72,8 +72,8 @@
             contact: true
             people:
               - name: Bradley Rey
-                position: PhD Candidate
-                institution: University of British Columbia
+                position: Assistant Professor
+                institution: University of Winnipeg
                 country: Canada
                 image: bradley-rey.jpg
               - name: Stephan Schlögl
@@ -87,15 +87,15 @@
             contact: true
             people:
               - name: Philip Doyle
-                position: 
-                institution: 
-                country: 
+                position: Fund Manager
+                institution: University College Dublin
+                country: Ireland
                 image: noimage.jpg
               - name: Paola Peña
-                position: 
-                institution: 
-                country: 
-                image: noimage.jpg
+                position: PhD student
+                institution: University College Dublin
+                country: Ireland
+                image: paola-pena.jpg
         sv:
             label: Student Volunter chairs
             email: 'mailto:cui2025-sv@cui.acm.org'
@@ -112,7 +112,7 @@
             contact: true
             people:
               - name: Amanat Ullah
-                position: Sessional Lecturer
+                position: PhD Candidate
                 institution: University of British Columbia
                 country: Canada
                 image: amanat-ullah.jpg
@@ -132,8 +132,8 @@
                 country: Canada
                 image: rezvan-boostani.jpg
               - name: Somang Nam
-                position: Human Factors Researcher
-                institution: University of Toronto
+                position: Research Fellow
+                institution: York University
                 country: Canada
                 image: somang-nam.jpg
         socialmedia:
@@ -195,7 +195,7 @@ tracks:
                 country: London
                 image: william-seymour.jpg
               - name: Nima Zargham
-                position: Research Assistant 
+                position: Postdoctoral Fellow 
                 institution: University of Bremen
                 country: Germany
                 image: nima-zargham.jpg
@@ -205,7 +205,7 @@ tracks:
             contact: true
             people:
               - name: Donald McMillan
-                position: Assistant Professor
+                position: Associate Professor
                 institution: Stockholm University
                 country: Sweden 
                 image: donald-mcMillan.jpg
@@ -245,7 +245,7 @@ tracks:
                 country: Netherlands
                 image: minha-lee.jpg
               - name: Mateusz Dubiel
-                position: Rsearch Associate
+                position: Research Associate
                 institution: University of Luxembourg
                 country: Luxembourg
                 image: mateusz-dubiel.jpg

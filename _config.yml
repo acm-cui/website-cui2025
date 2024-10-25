@@ -47,6 +47,8 @@ social:
         card_alt: ACM CUI 2025 will be in Waterloo, Ontario from 8th–10th July 2025
     github:
         username: acm-cui
+        repo: https://github.com/acm-cui/website-cui2025/
+        link_title: "View edit on GitHub"
 
 # Build settings
 plugins_dir: ./_plugins
@@ -56,6 +58,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-menus
+  - jekyll-last-commit
 
 # Liquid config
 liquid:
@@ -121,8 +124,11 @@ jekyll-minifier:
 
 # Page last mod
 jekyll-last-commit:
-  date_format: '%d-%b-%Y %R'        # default: `%B %d, %Y`
-  should_fall_back_to_mtime: false # default: `true`
+  date_format: '%d-%b-%Y %R'
+  should_fall_back_to_mtime: false
+  data_files_key: 'meta'
+  index_data_files: true
+  index_static_files: true
   
 github:
   repo: https://github.com/acm-cui/website-cui2025/

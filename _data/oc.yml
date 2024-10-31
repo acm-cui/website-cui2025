@@ -38,7 +38,7 @@
                 image: danai-korre.jpg
         publications:
             label: Publications chairs
-            email: ''
+            email: 'mailto:cui2025-pubs@cui.acm.org'
             contact: true
             people:
               - name: Martin Porcheron
@@ -68,7 +68,7 @@
                 image: alexandra-andratis.jpg
         registration:
             label: Registration chairs
-            email: 'mailto:cui2025-registration@cui.acm.org'
+            email: 'mailto:cui2025-reg@cui.acm.org'
             contact: true
             people:
               - name: Bradley Rey
@@ -83,7 +83,7 @@
                 image: stephan-schlögl.jpg           
         spc:
             label: Sponsorship & Industry Chairs
-            email: 'mailto:cui2025-sponsor@cui.acm.org'
+            email: 'mailto:cui2025-sponsorship@cui.acm.org'
             contact: true
             people:
               - name: Philip Doyle
@@ -108,7 +108,7 @@
                 image:  andreea-danielescu.jpg        
         diversity:
             label: Diversity & Inclusion chair
-            email: 'mailto:cui2025-diversity@cui.acm.org'
+            email: 'mailto:cui2025-dandi@cui.acm.org'
             contact: true
             people:
               - name: Amanat Ullah
@@ -123,7 +123,7 @@
                 image: isabela-motta.jpg
         accessibility:
             Label: Accessibility Chairs
-            email: ''
+            email: 'mailto:cui2025-a11y@cui.acm.org'
             contact: true
             people:
               - name: Rezvan Boostani
@@ -138,7 +138,7 @@
                 image: somang-nam.jpg
         socialmedia:
             label: Social Media & Web chairs
-            email: 'mailto:cui2025-social@cui.acm.org'
+            email: 'mailto:cui2025-socialmedia@cui.acm.org'
             contact: true
             people:
               - name: Samar Sallam
@@ -186,7 +186,7 @@ tracks:
                 image: jen-pearson.jpg           
         provocations:
             label: Provocations chairs
-            email: 'mailto:cui2025-provocations@cui.acm.org'
+            email: 'mailto:cui2025-provs@cui.acm.org'
             contact: true
             people:
               - name: William Seymour
@@ -206,7 +206,7 @@ tracks:
                 image: joel-fischer.jpg 
         postersdemos:
             label: Short and WIP Papers Chairs
-            email: 
+            email: 'mailto:cui2025-shortpapers@cui.acm.org'
             contact: true
             people:
               - name: Donald McMillan
@@ -224,9 +224,19 @@ tracks:
                 institution: University of Siegen
                 country: Germany
                 image: mahla-alizadeh.jpg
+        Interactivity & Creativity:
+            label: Interactivity & Creativity: Chairs
+            email: 'mailto:cui2025-interactivity@cui.acm.org'
+            contact: true
+            people:
+              - name: Johanne Trippas
+                position: Associate Professor
+                institution: RMIT University
+                country: Australia 
+                image: johanne-trippas.jpg
         workshops:
             label: Workshops & Tutorials Chair
-            email: 'mailto:cui2025-workshops@cui.acm.org'
+            email: 'mailto:cui2025-ws@cui.acm.org'
             contact: true
             people:
               - name: Melissa Guyre

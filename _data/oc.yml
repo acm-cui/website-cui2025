@@ -123,7 +123,7 @@
                 image: isabela-motta.jpg
         accessibility:
             Label: Accessibility Chairs
-            email: 
+            email: ''
             contact: true
             people:
               - name: Rezvan Boostani

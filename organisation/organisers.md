@@ -16,7 +16,7 @@ menus:
 ---
 
 <p class="text-center">
-    The following people have volunteered their time to assist in the organisation of ACM CUI {{ site.conference.year }}.
+    The following people have volunteered their time to assist in the organization of ACM CUI {{ site.conference.year }}.
 </p>
 
 {% for group in site.data.oc %}

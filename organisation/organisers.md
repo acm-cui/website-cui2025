@@ -1,6 +1,6 @@
 ---
-title: Organising Committee
-label: Organising Committee
+title: Organizing Committee
+label: Organizing Committee
 description: The Organising Committee for the !!conference.year!! Conversational User Interfaces conference.
 
 maintainer: socialmedia
@@ -10,7 +10,7 @@ lastmod:
 
 menus:
   organisers:
-    text: Organising Committee
+    text: Organizing Committee
     title: Volunteers leading the organisation and running of Conversational User Interfaces !!conference.year!!
     weight: 0
 ---

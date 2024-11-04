@@ -1,8 +1,8 @@
 ﻿conference:
-    label: Conference chairs
+    label: Conference Chairs
     roles:
         general:
-            label: General chairs
+            label: General Chairs
             email: 'mailto:cui2025@cui.acm.org'
             contact: true
             people:
@@ -22,7 +22,7 @@
                 country: Canadaa
                 image: jim-wallace.jpg
         programme:
-            label: Programme chairs
+            label: Programme Chairs
             email: 'mailto:cui2025-programme@cui.acm.org'
             contact: true
             people:
@@ -37,7 +37,7 @@
                 country: United Kingdom
                 image: danai-korre.jpg
         publications:
-            label: Publications chairs
+            label: Publications Chairs
             email: 'mailto:cui2025-pubs@cui.acm.org'
             contact: true
             people:
@@ -52,7 +52,7 @@
                 country: Canada
                 image: christina-wei.jpg
         local:
-            label: Local Organisation chairs
+            label: Local Organisation Chairs
             email: 'mailto:cui2025-local@cui.acm.org'
             contact: true
             people:
@@ -67,7 +67,7 @@
                 country: Canada
                 image: alexandra-andratis.jpg
         registration:
-            label: Registration chairs
+            label: Registration Chairs
             email: 'mailto:cui2025-reg@cui.acm.org'
             contact: true
             people:
@@ -97,7 +97,7 @@
                 country: Ireland
                 image: paola-pena.jpg
         sv:
-            label: Student Volunter chairs
+            label: Student Volunter Chairs
             email: 'mailto:cui2025-sv@cui.acm.org'
             contact: true
             people:
@@ -107,7 +107,7 @@
                 country: United States
                 image:  andreea-danielescu.jpg        
         diversity:
-            label: Diversity & Inclusion chair
+            label: Diversity & Inclusion Chair
             email: 'mailto:cui2025-dandi@cui.acm.org'
             contact: true
             people:
@@ -137,7 +137,7 @@
                 country: Canada
                 image: somang-nam.jpg
         socialmedia:
-            label: Social Media & Web chairs
+            label: Social Media & Web Chairs
             email: 'mailto:cui2025-socialmedia@cui.acm.org'
             contact: true
             people:
@@ -152,7 +152,7 @@
                 country: Canada
                 image: manveer-kalirai.jpg
         virtual:
-            label: Virtual Experience chair
+            label: Virtual Experience Chair
             email: 'mailto:cui2025-virtual@cui.acm.org'
             contact: true
             people:
@@ -162,10 +162,10 @@
                 country: Finland
                 image: justin-edwards.jpg
 tracks:
-    label: Track chairs
+    label: Track Chairs
     roles:
         papers:
-            label: Papers chairs
+            label: Papers Chairs
             email: 'mailto:cui2025-papers@cui.acm.org'
             contact: true
             people:
@@ -185,7 +185,7 @@ tracks:
                 country: United Kingdom
                 image: jen-pearson.jpg           
         provocations:
-            label: Provocations chairs
+            label: Provocations Chairs
             email: 'mailto:cui2025-provs@cui.acm.org'
             contact: true
             people:

@@ -24,6 +24,19 @@ menus:
     sep_before: true
 ---
 
+<script>
+  function checkPassword() {
+    var password = prompt("Please enter the password:");
+    if (password === "Zaqwsx3125") {
+      document.getElementById("protected-content").style.display = "block";
+    } else {
+      alert("Incorrect password.");
+      window.location = "/";
+    }
+  }
+  window.onload = checkPassword;
+</script>
+
 To propose a workshop, you should write a proposal about the topic and your plans for the workshop. If accepted, you will be expected to lead the organization of the workshop. At least one workshop organizer is expected to attend the conference. Workshops must be planned to be entirely in-person (not as hybrid online experiences) as <strong>half-day events.</strong>
 
 ## Key dates

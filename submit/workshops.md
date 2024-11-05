@@ -19,7 +19,7 @@ menus:
   submit:
     text: Workshops
     title: Information about propsing a workshops at CUI !!conference.year!!
-    weight: 0
+    weight: 2
     is_track: true
     sep_before: true
 ---

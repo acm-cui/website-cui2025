@@ -26,16 +26,16 @@ papers:
 
 provocations:
   -  label: Submissions due
-     date: 11th
-     extended_date: 18th April 2024
+     date: 10th April 2025
+     #extended_date: 18th April 2024
      homepage: true
 
   -  label: Notifications
-     date: 9th 
-     extended_date: 15th May 2024
+     date: 15th May 2025
+     #extended_date: 15th May 2024
 
   -  label: Camera ready/TAPS due
-     date: 23rd May 2024
+     date: 29th May 2025
 
 short_papers:
   -  label: Submissions due

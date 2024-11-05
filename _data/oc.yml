@@ -122,7 +122,7 @@
                 country: Brazil
                 image: isabela-motta.jpg
         accessibility:
-            Label: Accessibility Chairs
+            label: Accessibility Chairs
             email: 'mailto:cui2025-a11y@cui.acm.org'
             contact: true
             people:

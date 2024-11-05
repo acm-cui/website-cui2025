@@ -71,10 +71,10 @@ tutorials:
      date: 3rd March 2025
      homepage: true
 
-  -  label: Notifications
+   -  label: Notifications
      date: 31th March 2025
 
-  -  label: Workshops
+   -  label: Workshops
      date: 9-10th July 2025
 
 doctoral_consortium:

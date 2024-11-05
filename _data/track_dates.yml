@@ -66,7 +66,7 @@ workshops:
   -  label: Workshops
      date: 8th July 2025
 
-Tutorials:
+tutorials:
    - label: Submissions due
      date: 3rd March 2025
      homepage: true

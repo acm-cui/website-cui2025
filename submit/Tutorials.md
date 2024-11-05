@@ -3,18 +3,18 @@ title: Tutorials
 label: Tutorials 
 description: CUI !!conference.year!! will feature a dedicated tutorials track. Tutorials are in-depth presentations of fundamental or state-of-the-art topics presented by researchers or practitioners within the field of CUI.
 
-maintainer: tutorials
+maintainer: workshops
 lastmod: page
 
 track:
   chairs: workshops
-  dates: Tutorials
+  dates: tutorials
 
 menus:
   submit:
     text: Tutorials
     title: Information about propsing a tutorial at CUI !!conference.year!!
-    weight: 1
+    weight: 4
     is_track: true
     sep_before: true
 ---

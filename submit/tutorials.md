@@ -3,7 +3,7 @@ title: Tutorials
 label: Tutorials 
 description: CUI !!conference.year!! will feature a dedicated tutorials track. Tutorials are in-depth presentations of fundamental or state-of-the-art topics presented by researchers or practitioners within the field of CUI.
 
-maintainer: tutorials
+maintainer: workshops
 lastmod: page
 
 track:
@@ -44,8 +44,8 @@ CUI2025 will be held in person in July 2025 in Waterloo, Ontario, Canada. Tutori
 ## Submission Format and Length
 
 * Use the SIGCHI conference proceedings primary template
-    * [ACM Templates and publishing process](https://authors.acm.org/proceedings/production-information/taps-production-workflow) | [Overleaf template]((https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) "Computing Machinery (ACM) - Official Primary Article Templates")
-    * [Guide to accessible submissions] (https://sigchi.org/resources/guides-for-authors/accessibility/ "Accessibility guide for authors
+    * [ACM Templates and publishing process](https://authors.acm.org/proceedings/production-information/taps-production-workflow) | [Overleaf template](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) "Computing Machinery (ACM) - Official Primary Article Templates")
+    * [Guide to accessible submissions](https://sigchi.org/resources/guides-for-authors/accessibility/ "Accessibility guide for authors
 ")
     * [Accessible PDF Author Guide](https://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/ "Accessible PDF Author Guide
 ")

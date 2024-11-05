@@ -14,10 +14,23 @@ menus:
   submit:
     text: Tutorials
     title: Information about propsing a tutorial at CUI !!conference.year!!
-    weight: 4
+    weight: 3
     is_track: true
     sep_before: true
 ---
+
+<script>
+  function checkPassword() {
+    var password = prompt("Please enter the password:");
+    if (password === "Zaqwsx3125") {
+      document.getElementById("protected-content").style.display = "block";
+    } else {
+      alert("Incorrect password.");
+      window.location = "/";
+    }
+  }
+  window.onload = checkPassword;
+</script>
 
 ## Call for Tutorials
 

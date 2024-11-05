@@ -224,7 +224,7 @@ tracks:
                 institution: University of Siegen
                 country: Germany
                 image: mahla-alizadeh.jpg
-        "Interactivity & Creativity":
+        Interactivity:
             label: Interactivity & Creativity Chairs
             email: 'mailto:cui2025-interactivity@cui.acm.org'
             contact: true

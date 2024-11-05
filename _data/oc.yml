@@ -19,7 +19,7 @@
               - name: Jim Wallace
                 position: Associate Professor
                 institution: University of Waterloo
-                country: Canadaa
+                country: Canada
                 image: jim-wallace.jpg
         programme:
             label: Programme Chairs
@@ -97,7 +97,7 @@
                 country: Ireland
                 image: paola-pena.jpg
         sv:
-            label: Student Volunter Chairs
+            label: Student Volunteer Chairs
             email: 'mailto:cui2025-sv@cui.acm.org'
             contact: true
             people:
@@ -224,7 +224,7 @@ tracks:
                 institution: University of Siegen
                 country: Germany
                 image: mahla-alizadeh.jpg
-        Interactivity & Creativity:
+        "Interactivity & Creativity":
             label: Interactivity & Creativity Chairs
             email: 'mailto:cui2025-interactivity@cui.acm.org'
             contact: true

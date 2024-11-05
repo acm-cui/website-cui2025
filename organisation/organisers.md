@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 label: Organizing Committee
-description: The Organising Committee for the !!conference.year!! Conversational User Interfaces conference.
+description: The Organizing Committee for the !!conference.year!! Conversational User Interfaces conference.
 
 maintainer: socialmedia
 lastmod:

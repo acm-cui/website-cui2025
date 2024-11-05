@@ -44,7 +44,7 @@ CUI2025 will be held in person in July 2025 in Waterloo, Ontario, Canada. Tutori
 ## Submission Format and Length
 
 * Use the SIGCHI conference proceedings primary template
-    * [ACM Templates and publishing process](https://authors.acm.org/proceedings/production-information/taps-production-workflow) | [Overleaf template](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) "Computing Machinery (ACM) - Official Primary Article Templates")
+    * [ACM Templates and publishing process](https://authors.acm.org/proceedings/production-information/taps-production-workflow) `|` [Overleaf template](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) "Computing Machinery (ACM) - Official Primary Article Templates")
     * [Guide to accessible submissions](https://sigchi.org/resources/guides-for-authors/accessibility/ "Accessibility guide for authors
 ")
     * [Accessible PDF Author Guide](https://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/ "Accessible PDF Author Guide

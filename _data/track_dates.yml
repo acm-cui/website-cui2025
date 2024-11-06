@@ -6,7 +6,7 @@ papers:
 
   -  label: Submissions due
      date: 20th February 2025
-     extended_date: 29th February 2024
+     #extended_date: 29th February 2024
      homepage: true
 
   -  label: Notifications sent

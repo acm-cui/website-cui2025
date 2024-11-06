@@ -19,19 +19,6 @@ menus:
     sep_before: true
 ---
 
-<script>
-  function checkPassword() {
-    var password = prompt("Please enter the password:");
-    if (password === "Zaqwsx3125") {
-      document.getElementById("protected-content").style.display = "block";
-    } else {
-      alert("Incorrect password.");
-      window.location = "/";
-    }
-  }
-  window.onload = checkPassword;
-</script>
-
 ## Call for Tutorials
 
 CUI 2025 tutorials are in-depth presentations of fundamental or state-of-the-art topics presented by researchers or practitioners within the field of CUI. The tutorials offer attendees an introduction to novel concepts and technologies, empower them to learn new skills, and present them with possibilities to meet new people and discuss topics of shared interest. The scope for tutorials is broad and includes topics such as LLMs, context-aware conversational-agents, chatbots, Natural Language Processing for CA, personas in CA, Human-AI collaboration for different settings such as healthcare, education, home, public etc.

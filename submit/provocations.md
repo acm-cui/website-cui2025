@@ -23,19 +23,6 @@ menus:
     is_track: true
 ---
 
-<script>
-  function checkPassword() {
-    var password = prompt("Please enter the password:");
-    if (password === "Zaqwsx3125") {
-      document.getElementById("protected-content").style.display = "block";
-    } else {
-      alert("Incorrect password.");
-      window.location = "/";
-    }
-  }
-  window.onload = checkPassword;
-</script>
-
 Provocations at CUI are original and unpublished contributions. A compelling provocation is succinct yet potent, encapsulating a daring, thought-provoking idea or proposal. It should be a catalyst, igniting robust debate and stimulating a rich exchange of ideas among conference attendees. Provocations challenge the status quo, dare to push conventionality, and are willing to incite strong reactions or dissent. Through such provocations, we aim to unsettle comfortable paradigms, question established wisdom, and spur academic curiosity in the domain of conversational user interfaces. We encourage out-of-the-box or even controversial ideas to be proposed through provocation. Submissions addressing the CUI 2025 theme of “Weaving Conversations Through Tradition and Innovation” are encouraged but not required.
 
 Late-breaking/non-provocative work should be submitted to the other tracks of CUI 2025 (either Posters or Demos are potentially applicable destinations).

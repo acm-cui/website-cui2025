@@ -74,8 +74,8 @@ ACM's CCS concepts and keywords are not required for submission and peer review 
 
 ### 2. Submit your proposal
 
-You should submit your proposal to the <a href="{{ site.data.oc['tracks']['roles'][page.track.chairs]['email'] }}" title="Contact the CUI {{ site.conference.year }} {{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }} if you have any questions">CUI {{ site.conference.year }} {{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }}</a>: {{ site.data.oc['tracks']['roles'][page.track.chairs]['email'] | replace: "mailto:", "" }}<br>
-
+* All materials must be submitted electronically to [PCS](https://new.precisionconference.com/submissions) by the deadline.
+* In PCS, first, click "Submissions" at the top of the page. Then, from the dropdown menu, select "SIGCHI", "CUI 2025", and the "Workshops" track.
 Proposed workshop topics should be of interest to the conversational user interface research community. Possible topics include, but are not limited to:
 
 * Design considerations for conversational UX 
@@ -133,9 +133,9 @@ Your proposal will be published in the CUI Proceedings in the [ACM Digital Libra
 
 ## Submissions
 
-Please send your submission to Workshops chairs Shashank Ahire and Melissa Guyre at [cui2025-workshops@cui.acm.org](mailto:cui2025-workshops@cui.acm.org "Make your submission to the workshop chairs"), with the subject line "CUI 2025 Workshop Submission".
+Please send your submission to Workshops chairs Shashank Ahire and Melissa Guyre at [cui2025-ws@cui.acm.org](mailto:cui2025-ws@cui.acm.org "Make your submission to the workshop chairs"), with the subject line "CUI 2025 Workshop Submission".
 
 ## Questions?
 
-If you have any questions, please contact the [Workshops chairs](mailto:cui2025-workshops@cui.acm.org "Question to the workshop chairs"), Melissa Guyre and Shashank Ahire, for support.
+If you have any questions, please contact the [Workshops chairs](mailto:cui2025-ws@cui.acm.org "Question to the workshop chairs"), Melissa Guyre and Shashank Ahire, for support.
 

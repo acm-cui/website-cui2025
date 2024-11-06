@@ -49,12 +49,16 @@ CUI2025 will be held in person in July 2025 in Waterloo, Ontario, Canada. Tutori
 
 <em class="small">All deadlines are at <a href="https://time.is/Anywhere_on_Earth" title="The current time in 'Anywhere on Earth'">23:59 Anywhere on Earth</a></em>
 
-## Submission Platform
+## The process
+
+All submissions will proceed through the following process. Please contact the <a href="{{ site.data.oc['tracks']['roles'][page.track.chairs]['email'] }}" title="Contact the CUI {{ site.conference.year }} {{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }} if you have any questions">{{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }}</a> if you have any questions.
+
+### Submission Platform
 
 * All materials must be submitted electronically to [PCS](https://new.precisionconference.com/submissions) by the deadline.
 * In PCS, first, click "Submissions" at the top of the page. Then, from the dropdown menu, select "SIGCHI", "CUI 2025", and the "Tutorials" track.
 
-## Submission Format and Length
+### Submission Format and Length
 
 * Use the SIGCHI conference proceedings primary template
     * [ACM Templates and publishing process](https://authors.acm.org/proceedings/production-information/taps-production-workflow) `|` [Overleaf template](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) "Computing Machinery (ACM) - Official Primary Article Templates")
@@ -68,7 +72,7 @@ CUI2025 will be held in person in July 2025 in Waterloo, Ontario, Canada. Tutori
     * [PDF Accessibility Checker](https://checkers.eiii.eu/en/pdfcheck/ "Check the Accessibility of a PDF Document")
 * Maximum 6 pages (excluding references)
 
-## Preparing the Submission
+### Preparing the Submission
 
 In your proposal please include:
 
@@ -82,15 +86,22 @@ The intended audience(s) of the tutorial: Please outline likely attendees for yo
 Overview of the learning materials provided to the participants before and after the tutorial.
 * <strong>A brief biography of the instructor(s):</strong> We encourage a maximum of 3 presenters. Please provide adequate justification in case more are needed. If you plan to hold a panel or invited speakers during the tutorial, please provide brief details on these persons as well. Information on previous experience in organising tutorials (e.g. name, dates, conference, number of participants) is highly desirable.
 
-## Anonymity
+### Anonymity
 
 Tutorials are not submitted anonymously, i.e. instructors do not remove their names and affiliations from their submission materials.
 
-## Selection Process
+### Selection Process
 
 The selection will be curated by the Tutorials Chairs.
 
-## Publication
+### Publication
 
 Accepted tutorial proposals will be included in the ACM Digital Library as part of the CUI 2025 Adjunct Proceedings. ACM will send the organizers a copyright form, which they have to complete. Once completed, ACM will provide organizers with the copyright information to put into the camera-ready paper. Then, the camera-ready version (including the copyright notice) can be submitted through the submission system. The official publication date is the date the proceedings are made available in the ACM Digital Library.
 
+## Submissions
+
+Please send your submission to Workshops chairs Shashank Ahire and Melissa Guyre at [cui2025-ws@cui.acm.org](mailto:cui2025-ws@cui.acm.org "Make your submission to the workshop chairs"), with the subject line "CUI 2025 Workshop Submission".
+
+## Questions?
+
+If you have any questions, please contact the [Workshops chairs](mailto:cui2025-ws@cui.acm.org "Question to the workshop chairs"), Melissa Guyre and Shashank Ahire, for support.

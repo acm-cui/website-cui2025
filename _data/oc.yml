@@ -166,7 +166,7 @@ tracks:
     roles:
         papers:
             label: Papers Chairs
-            email: 'mailto:cui2025-papers@cui.acm.org'
+            email: 'mailto:cui2025-papers@cui.acm.org,c2murad@uwaterloo.ca,anastasia.kuzminykh@utoronto.ca,j.pearson@swansea.ac.uk'
             contact: true
             people:
               - name: Christine Murad

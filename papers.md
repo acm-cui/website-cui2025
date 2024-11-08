@@ -15,17 +15,17 @@ track:
   chairs: papers
   dates: papers
 
-#menus:
-  #submit:
-    #text: Papers
-    #title: Information about submitting to the Papers track at CUI !!conference.year!!
-    #weight: 0
-    #is_track: true
+menus:
+  submit:
+    text: Papers
+    title: Information about submitting to the Papers track at CUI !!conference.year!!
+    weight: 0
+    is_track: true
 ---
 
 We invite the submission of research papers from a broad range of disciplines, including human-computer interaction, computer science, engineering, speech technology, linguistics, psychology, cognitive sciences, sociology, and other cognate disciplines. We also encourage the submission of high-quality replication studies in addition to well-designed studies with null results.
 
-Papers must describe original work that has not been previously published, not accepted for publication elsewhere, and is not simultaneously submitted or currently under review in another journal or conference (including [the other tracks of ACM CUI 2024]({{ "/submit/" | relative_url }} "All submission tracks at CUI {{ site.conference.year }}")).
+Papers must describe original work that has not been previously published, not accepted for publication elsewhere, and is not simultaneously submitted or currently under review in another journal or conference (including [the other tracks of ACM CUI 2025]({{ "/submit/" | relative_url }} "All submission tracks at CUI {{ site.conference.year }}")).
 
 ## Key dates
 

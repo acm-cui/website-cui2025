@@ -17,7 +17,7 @@ track:
 
 menus:
   submit:
-    text: Posters
+    text: Short Papers 
     title: Information about submitting to the posters track at CUI !!conference.year!!
     weight: 1
     is_track: true

@@ -186,7 +186,7 @@ tracks:
                 image: jen-pearson.jpg           
         provocations:
             label: Provocations Chairs
-            email: 'mailto:cui2025-provs@cui.acm.org'
+            email: 'mailto:cui2025-provs@cui.acm.org,william.1.seymour@kcl.ac.uk,zargham@uni-bremen.de,joel.fischer@nottingham.ac.uk'
             contact: true
             people:
               - name: William Seymour
@@ -206,7 +206,7 @@ tracks:
                 image: joel-fischer.jpg 
         postersdemos:
             label: Short and WIP Papers Chairs
-            email: 'mailto:cui2025-shortpapers@cui.acm.org'
+            email: 'mailto:cui2025-shortpapers@cui.acm.org,donald.mcmillan@dsv.su.se,sm.desai@northeastern.edu,fatemeh.alizadeh@uni-siegen.de '
             contact: true
             people:
               - name: Donald McMillan
@@ -226,7 +226,7 @@ tracks:
                 image: mahla-alizadeh.jpg
         interactivity:
             label: Interactivity & Creativity Chairs
-            email: 'mailto:cui2025-interactivity@cui.acm.org'
+            email: 'mailto:cui2025-interactivity@cui.acm.org,j.trippas@rmit.edu.au'
             contact: true
             people:
               - name: Johanne Trippas
@@ -236,7 +236,7 @@ tracks:
                 image: johanne-trippas.jpg
         workshops:
             label: Workshops & Tutorials Chair
-            email: 'mailto:cui2025-ws@cui.acm.org'
+            email: 'mailto:cui2025-ws@cui.acm.org,mguyre@gmail.com,shashank.ahire@hci.uni-hannover.de'
             contact: true
             people:
               - name: Melissa Guyre

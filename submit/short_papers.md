@@ -15,12 +15,12 @@ track:
   chairs: postersdemos
   dates: short_papers
 
-#menus:
-  #submit:
-    #text: Posters
-    #title: Information about submitting to the posters track at CUI !!conference.year!!
-    #weight: 2
-    #is_track: true
+menus:
+  submit:
+    text: Posters
+    title: Information about submitting to the posters track at CUI !!conference.year!!
+    weight: 1
+    is_track: true
 ---
 
 We invite the submission of short papers and works-in-progress from a broad range of disciplines, including human-computer interaction, computer science, engineering, speech technology, linguistics, psychology, cognitive sciences, sociology, and other cognate disciplines in the field of Conversational User Interfaces.
@@ -52,7 +52,7 @@ All submissions will proceed through the following process. Please contact the <
 
 ### 1. Prepare your extended abstract
 
-Submissions of extended abstracts for posters must be in English, in PDF format, anonymised using the [CHI anonymization policy](https://chi2024.acm.org/for-authors/presenting/papers/chi-anonymization-policy/ "CHI 2024 Anonymization Policy"), and approximately **3,000 words** words (including figures, tables, proofs, appendixes, and any other content excluding references and acknowledgments).
+Submissions of extended abstracts for posters must be in English, in PDF format, anonymised using the [CHI anonymization policy](https://chi2024.acm.org/for-authors/presenting/papers/chi-anonymization-policy/ "CHI 2024 Anonymization Policy"), and approximately 3,000 words words (including figures, tables, proofs, appendixes, and any other content excluding references and acknowledgments).
 
 You must use the [ACM LaTeX or Word templates](https://www.acm.org/publications/proceedings-template "ACM templates for Microsoft Word and LaTeX") to prepare your submission. We encourage the use of LaTeX and the official ACM template on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc "ACM Primary Article Template templates on Overleaf"). LaTeX users must employ the following document class for submission: <code>\documentclass[manuscript,screen,review,anonymous]{acmart}</code> for submission.
 

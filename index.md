@@ -28,12 +28,12 @@ menu:
 	 <h2></h2>
     		<h2>Tracks and Deadlines:</h2>
   		<ul>
-    		<li class="pt-3">Papers - February 2025</li>
-       		<li>Provocations - April 2025</li>
-	  	<li>Posters & Late-Breaking Works - April 2025</li>
+    		<li class="pt-3">Papers - 13th February 2025</li>
+       		<li>Provocations - 10th April 2025</li>
+	  	<li> Short Papers & Works-in-Progress - 10th April 2025</li>
      		<li>Interactivity & Creativity - April 2025</li>
-		<li>Workshops - February 2025</li>
-   		<li>Tutorials - March 2025</li>
+		<li>Workshops - 4th February 2025</li>
+   		<li>Tutorials - 3rd March 2025</li>
       		<li>Doctoral Consortium - March 2025</li>	   
        		</ul>
 

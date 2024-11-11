@@ -161,6 +161,11 @@
                 institution: University of Oulu
                 country: Finland
                 image: justin-edwards.jpg
+              - name: Kris Frasheri
+                position: Sessional Lecturer
+                institution: University of Waterloo
+                country: Canada
+                image: kris-frasheri.jpg
 tracks:
     label: Track Chairs
     roles:

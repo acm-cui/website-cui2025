@@ -256,7 +256,7 @@ tracks:
                 image: shashank-ahire.jpg          
         dc:
             label: Doctoral Consortium Chairs
-            email: 'mailto:cui2025-dc@cui.acm.org'
+            email: 'mailto:cui2025-dc@cui.acm.org,m.lee@tue.nl,mat.dubiel@gmail.com,joel.fischer@nottingham.ac.uk'
             contact: true
             people:
               - name: Minha Lee

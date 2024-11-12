@@ -21,7 +21,7 @@ menus:
     title: Information about propsing a workshops at CUI !!conference.year!!
     weight: 4
     is_track: true
-    sep_before: true
+    #sep_before: true
 ---
 
 To propose a workshop, you should write a proposal about the topic and your plans for the workshop. If accepted, you will be expected to lead the organization of the workshop. At least one workshop organizer is expected to attend the conference. Workshops must be planned to be entirely in-person (not as hybrid online experiences) as <strong>half-day events.</strong>

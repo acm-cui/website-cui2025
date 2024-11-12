@@ -51,6 +51,20 @@ short_papers:
      date: 23rd May 2025
      #_extended_date: 20th June 2024
 
+demos:
+  -  label: Submissions due
+     date: 18th April 2025
+     #extended_date: 18th April 2024
+     homepage: true
+
+  -  label: Notifications
+     date: 9th May 2025
+     #_extended_date: 13th June 2024
+
+  -  label: Camera ready/TAPS due
+     date: 23rd May 2025
+     #_extended_date: 20th June 2024
+
 workshops:
   -  label: Submissions due
      date: 4th February 2025

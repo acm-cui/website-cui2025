@@ -15,12 +15,12 @@ track:
   chairs: interactivity
   dates: demos
 
-menus:
-  submit:
-    text: Interactivity & Creativity
-    title: Information about submitting to the demos track at CUI !!conference.year!!
-    weight: 3
-    is_track: true
+#menus:
+  #submit:
+    #text: Interactivity & Creativity
+    #title: Information about submitting to the demos track at CUI !!conference.year!!
+    #weight: 3
+    #is_track: true
 ---
 
 We invite the submission of demos from a broad range of disciplines, including human-computer interaction, computer science, engineering, speech technology, linguistics, psychology, cognitive sciences, sociology, and other cognate disciplines.

@@ -15,12 +15,12 @@ track:
   chairs: dc
   dates: doctoral_consortium
 
-menus:
-  submit:
-    text: Doctoral Consortium
-    title: Information about applying to the CUI !!conference.year!! doctoral consortium.
-    weight: 5
-    is_track: true
+#menus:
+  #submit:
+    #text: Doctoral Consortium
+    #title: Information about applying to the CUI !!conference.year!! doctoral consortium.
+    #weight: 5
+    #is_track: true
 ---
 
 The CUI {{ site.conference.year }} Doctoral Consortium is a half-day session where doctoral students of conversational user interfaces can discuss their research with other students and experts within the field. Doctoral work is important to our rapidly advancing area of research, and we very much look forward to making the Doctoral Consortium a meeting place for students in the field.

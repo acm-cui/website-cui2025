@@ -121,9 +121,9 @@ Your proposal will be published in the CUI Proceedings in the [ACM Digital Libra
 
 ## Submissions
 
-Please send your submission to Workshops chairs Shashank Ahire and Melissa Guyre at [cui2025-ws@cui.acm.org](mailto:cui2025-ws@cui.acm.org "Make your submission to the workshop chairs"), with the subject line "CUI 2025 Workshop Submission".
+Please send your submission to Workshops chairs Shashank Ahire and Melissa Guyre at [cui2025-ws@cui.acm.org](mailto:cui2025-workshops@cui.acm.org "Make your submission to the workshop chairs"), with the subject line "CUI 2025 Workshop Submission".
 
 ## Questions?
 
-If you have any questions, please contact the [Workshops chairs](mailto:cui2025-ws@cui.acm.org "Question to the workshop chairs"), Melissa Guyre and Shashank Ahire, for support.
+If you have any questions, please contact the [Workshops chairs](mailto:cui2025-workshops@cui.acm.org "Question to the workshop chairs"), Melissa Guyre and Shashank Ahire, for support.
 

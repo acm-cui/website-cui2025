@@ -38,7 +38,7 @@ Papers must describe original work that has not been previously published, not a
 
 ## The process
 
-All submissions will proceed through the following process. Please [contact the Papers chairs](mailto:cui2025-papers@cui.acm.org,c2murad@uwaterloo.ca,anastasia.kuzminykh@utoronto.ca,j.pearson@swansea.ac.uk) if you have any questions.
+All submissions will proceed through the following process. Please [contact the Papers chairs](mailto:cui2025-papers@cui.acm.org) if you have any questions.
 
 
 ### 1. Prepare your paper

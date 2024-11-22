@@ -23,7 +23,7 @@
                 image: jim-wallace.jpg
         programme:
             label: Programme Chairs
-            email: 'mailto:cui2025-programme@cui.acm.org'
+            email: 'mailto:cui2025-program@cui.acm.org'
             contact: true
             people:
               - name: Cosmin Munteanu
@@ -68,7 +68,7 @@
                 image: alexandra-andratis.jpg
         registration:
             label: Registration Chairs
-            email: 'mailto:cui2025-reg@cui.acm.org'
+            email: 'mailto:cui2025-registration@cui.acm.org'
             contact: true
             people:
               - name: Bradley Rey
@@ -83,7 +83,7 @@
                 image: stephan-schlögl.jpg           
         spc:
             label: Sponsorship & Industry Chairs
-            email: 'mailto:cui2025-sponsorship@cui.acm.org'
+            email: 'mailto:cui2025-sponsors@cui.acm.org'
             contact: true
             people:
               - name: Philip Doyle
@@ -113,7 +113,7 @@
                 image:  veen-wong.jpg           
         diversity:
             label: Diversity & Inclusion Chair
-            email: 'mailto:cui2025-dandi@cui.acm.org'
+            email: 'mailto:cui2025-inclusion@cui.acm.org'
             contact: true
             people:
               - name: Amanat Ullah
@@ -128,7 +128,7 @@
                 image: isabela-motta.jpg
         accessibility:
             label: Accessibility Chairs
-            email: 'mailto:cui2025-a11y@cui.acm.org'
+            email: 'mailto:cui2025-access@cui.acm.org'
             contact: true
             people:
               - name: Rezvan Boostani
@@ -143,7 +143,7 @@
                 image: somang-nam.jpg
         socialmedia:
             label: Social Media & Web Chairs
-            email: 'mailto:cui2025-socialmedia@cui.acm.org'
+            email: 'mailto:cui2025-web@cui.acm.org'
             contact: true
             people:
               - name: Samar Sallam
@@ -176,7 +176,7 @@ tracks:
     roles:
         papers:
             label: Papers Chairs
-            email: 'mailto:cui2025-papers@cui.acm.org,c2murad@uwaterloo.ca,anastasia.kuzminykh@utoronto.ca,j.pearson@swansea.ac.uk'
+            email: 'mailto:cui2025-papers@cui.acm.org'
             contact: true
             people:
               - name: Christine Murad
@@ -196,7 +196,7 @@ tracks:
                 image: jen-pearson.jpg           
         provocations:
             label: Provocations Chairs
-            email: 'mailto:cui2025-provs@cui.acm.org,william.1.seymour@kcl.ac.uk,zargham@uni-bremen.de,joel.fischer@nottingham.ac.uk'
+            email: 'mailto:cui2025-provocations@cui.acm.org'
             contact: true
             people:
               - name: William Seymour
@@ -216,7 +216,7 @@ tracks:
                 image: joel-fischer.jpg 
         postersdemos:
             label: Short and WIP Papers Chairs
-            email: 'mailto:cui2025-shortpapers@cui.acm.org,donald.mcmillan@dsv.su.se,sm.desai@northeastern.edu,fatemeh.alizadeh@uni-siegen.de '
+            email: 'mailto:cui2025-shortpapers@cui.acm.org'
             contact: true
             people:
               - name: Donald McMillan
@@ -236,7 +236,7 @@ tracks:
                 image: mahla-alizadeh.jpg
         interactivity:
             label: Interactivity & Creativity Chairs
-            email: 'mailto:cui2025-interactivity@cui.acm.org,j.trippas@rmit.edu.au'
+            email: 'mailto:cui2025-interactivity@cui.acm.org'
             contact: true
             people:
               - name: Johanne Trippas
@@ -251,7 +251,7 @@ tracks:
                 image: thomas-mildner.jpg
         workshops:
             label: Workshops & Tutorials Chairs
-            email: 'mailto:cui2025-ws@cui.acm.org,mguyre@gmail.com,shashank.ahire@hci.uni-hannover.de'
+            email: 'mailto:cui2025-workshops@cui.acm.org'
             contact: true
             people:
               - name: Melissa Guyre
@@ -266,7 +266,7 @@ tracks:
                 image: shashank-ahire.jpg          
         dc:
             label: Doctoral Consortium Chairs
-            email: 'mailto:cui2025-dc@cui.acm.org,m.lee@tue.nl,mat.dubiel@gmail.com,joel.fischer@nottingham.ac.uk'
+            email: 'mailto:cui2025-dc@cui.acm.org'
             contact: true
             people:
               - name: Minha Lee

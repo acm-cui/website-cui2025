@@ -52,7 +52,7 @@
                 country: Canada
                 image: christina-wei.jpg
         local:
-            label: Local Organisation Chairs
+            label: Local Arrangements Chairs
             email: 'mailto:cui2025-local@cui.acm.org'
             contact: true
             people:
@@ -105,7 +105,12 @@
                 position: Lead - Future Technologies R&D
                 institution: Accenture Labs
                 country: United States
-                image:  andreea-danielescu.jpg        
+                image:  andreea-danielescu.jpg 
+              - name: Veen Wong
+                position: PhD Candidate
+                institution: University of Waterloo
+                country: Canada
+                image:  veen-wong.jpg           
         diversity:
             label: Diversity & Inclusion Chair
             email: 'mailto:cui2025-dandi@cui.acm.org'
@@ -239,8 +244,13 @@ tracks:
                 institution: RMIT University
                 country: Australia 
                 image: johanne-trippas.jpg
+              - name: Thomas Mildner
+                position: Postdoctoral Researcher
+                institution: University of Bremen
+                country: Germany
+                image: thomas-mildner.jpg
         workshops:
-            label: Workshops & Tutorials Chair
+            label: Workshops & Tutorials Chairs
             email: 'mailto:cui2025-ws@cui.acm.org,mguyre@gmail.com,shashank.ahire@hci.uni-hannover.de'
             contact: true
             people:

@@ -13,21 +13,25 @@ lastmod: page
   
 track:
   chairs: interactivity
-  dates: demos
+  dates: interactivity
 
-#menus:
-  #submit:
-    #text: Interactivity & Creativity
-    #title: Information about submitting to the demos track at CUI !!conference.year!!
-    #weight: 3
-    #is_track: true
+menus:
+  submit:
+    text: Interactivity & Creativity
+    title: Information about submitting to the Interactivity and Creativity track at CUI !!conference.year!!
+    weight: 5
+    is_track: true
 ---
 
-We invite the submission of demos from a broad range of disciplines, including human-computer interaction, computer science, engineering, speech technology, linguistics, psychology, cognitive sciences, sociology, and other cognate disciplines.
+We invite the submission of interactive and creative demos from various disciplines, including human-computer interaction, computer science, engineering, speech technology, linguistics, psychology, cognitive sciences, sociology, and other cognate disciplines.
 
-Demos are interactive contributions aiming to tackle challenges and show progress in the field of Conversational User Interfaces. For the submission and review process, you should write an extended abstract that summarizes your demo. If accepted, we will invite you to present your work at CUI 2024, with your extended abstract being published in the conference proceedings.
+Submissions to the interactivity and creativity track are demo contributions aiming to tackle challenges and show progress in the field of Conversational User Interfaces.
 
-Examples of previously successful demo submissions at CUI can be found in the ACM Digital Library. Last year’s posters were published as ["demonstration"](https://dl.acm.org/doi/proceedings/10.1145/3571884 'CUI 2023 proceedings') in the posters and demos session.
+<strong>NEW:</strtong> We invite creative installations and artistic expressions that may not necessarily be as technical as traditional system demos. These contributions aim to enrich the conference’s interactivity by offering unique, thought-provoking ways for attendees to engage with conversational user interfaces, inspiring fresh perspectives and innovative reflections.
+
+For the submission and review process, you should write an extended abstract that summarizes your demo. If accepted, we will invite you to present your work at CUI 2025, with your extended abstract being published in the conference proceedings.
+
+Examples of previously successful demo submissions at CUI can be found in the ACM Digital Library. Last year’s posters were published as ["demonstration"](https://dl.acm.org/doi/proceedings/10.1145/3640794#heading7 'CUI 2024 proceedings') in the posters and demos session.
 
 ## Key dates
 
@@ -45,7 +49,8 @@ All demo papers will proceed through the following process. Please contact the <
 
 Submissions of extended abstracts for demos must be in English, in PDF format, anonymised using the [CHI anonymization policy](https://chi2024.acm.org/for-authors/presenting/papers/chi-anonymization-policy/ "CHI 2024 Anonymization Policy"), and approximately **3,000 words** words (including figures, tables, proofs, appendixes, and any other content excluding references and acknowledgments).
 
-You should include a description of the system, a description of the problem(s) it addresses, a discussion regarding its novelty and/or applied context, a discussion regarding the technology’s relevance to the CUI community, a description of the planned presentation, and details about how online attendees will interact with the demonstration. Your description of the planned presentation should focus on how you will provide an engaging interactive experience for your audience.
+Your submission should include a detailed description of the system or creative installation, including its purpose, design, and the problem(s) it seeks to address. For creative installations, explain how they offer unique insights or perspectives relevant to the CUI community and discuss their novelty, artistic context, or experiential impact. Highlight your work's relevance to the CUIs field and how it fosters reflection, innovation, or engagement. Additionally, provide a clear outline of your planned presentation, focusing on how it will deliver an engaging, interactive experience.
+
 
 You must use the [ACM LaTeX or Word templates](https://www.acm.org/publications/proceedings-template "ACM templates for Microsoft Word and LaTeX") to prepare your submission. We encourage the use of LaTeX and the official ACM template on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc "ACM Primary Article Template templates on Overleaf"). LaTeX users must employ the following document class for submission: <code>\documentclass[manuscript,screen,review,anonymous]{acmart}</code>.
 
@@ -53,7 +58,8 @@ Word users must use [the one-column submission template](https://authors.acm.org
 
 ACM's CCS concepts and keywords are not required for submission and peer review but are required if your paper is accepted and published by the ACM.
 
-You should also prepare a 2-minute (max) video demonstration of your demo.
+You should also prepare a 2-minute (max) video demonstration of your interactivity and creativity demonstration.
+.
 
 ### 2. Submit your extended abstract and video
 
@@ -61,11 +67,11 @@ You should submit your extended abstract and video to the [conference submission
 
 ### 3. Await reviews
 
-Each submission will be reviewed by one track chair and one expert reviewer through a curated process. Following a curated selection process, successful submissions will be invited to present at CUI 2024. Creativity in delivery, feasibility, novelty, and ability to engage attendees in-person and online will be assessed in curating the program. We aim to deliver captivating demonstrations showcasing the diverse research arenas contributing to the conversational user interface research community. Sensitive, private and/or proprietary information should not be disclosed prior to publication. Business exposure is reserved for event sponsors only, so advertising materials should not be used in demonstrations.
+Each submission will be reviewed by one track chair and one expert reviewer through a curated process. Following a curated selection process, successful submissions will be invited to present at CUI 2025. Creativity in delivery, feasibility, novelty, and ability to engage attendees in-person and online will be assessed in curating the program. We aim to deliver captivating demonstrations showcasing the diverse research arenas contributing to the conversational user interface research community. Sensitive, private and/or proprietary information should not be disclosed before publication. Business exposure is reserved for event sponsors only, so advertising materials should not be used in demonstrations.
 
 ### 4. Prepare your paper for publication
 
-If your demo is accepted, you should de-anonymise it. You must include [CCS concepts](https://dl.acm.org/ccs "ACM Computing Classification System") and keywords for publication. At least one author of each accepted paper must register for the conference. Otherwise, we cannot guarantee the publication of your paper. Accepted demo extended abstracts will be archived in the <a href="http://dl.acm.org/" title="The ACM Digital Library">ACM Digital Library</a>.
+If your interactivity and creativity submission is accepted, you should de-anonymise it. You must include [CCS concepts](https://dl.acm.org/ccs "ACM Computing Classification System") and keywords for publication. At least one author of each accepted paper must register for the conference. Otherwise, we cannot guarantee the publication of your paper. Accepted demo extended abstracts will be archived in the <a href="http://dl.acm.org/" title="The ACM Digital Library">ACM Digital Library</a>.
 
 You will receive an email from ACM to assign the rights for your paper, following which you will receive an email from "The ACM Publishing System" (TAPS), which will handle the generation of the final version of your paper. Accepted papers will be produced from LaTeX or Word source files into a single column HTML document and a two-column PDF for publication. We recommend all authors read ACM's guidance for [TAPS Best Practice](https://www.acm.org/publications/taps/taps-best-practices "The ACM Publishing System (TAPS) Best Practices").
 

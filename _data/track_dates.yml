@@ -51,9 +51,9 @@ short_papers:
      date: 23rd May 2025
      #_extended_date: 20th June 2024
 
-demos:
+interactivity:
   -  label: Submissions due
-     date: 18th April 2025
+     date: 10th April 2025
      #extended_date: 18th April 2024
      homepage: true
 

@@ -27,7 +27,7 @@ We invite the submission of interactive and creative demos from various discipli
 
 Submissions to the interactivity and creativity track are demo contributions aiming to tackle challenges and show progress in the field of Conversational User Interfaces.
 
-<strong>NEW:</strtong> We invite creative installations and artistic expressions that may not necessarily be as technical as traditional system demos. These contributions aim to enrich the conference’s interactivity by offering unique, thought-provoking ways for attendees to engage with conversational user interfaces, inspiring fresh perspectives and innovative reflections.
+<strong>NEW:</strong> We invite creative installations and artistic expressions that may not necessarily be as technical as traditional system demos. These contributions aim to enrich the conference’s interactivity by offering unique, thought-provoking ways for attendees to engage with conversational user interfaces, inspiring fresh perspectives and innovative reflections.
 
 For the submission and review process, you should write an extended abstract that summarizes your demo. If accepted, we will invite you to present your work at CUI 2025, with your extended abstract being published in the conference proceedings.
 

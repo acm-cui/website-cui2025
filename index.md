@@ -36,6 +36,23 @@ menu:
    		<li>Tutorials - 3rd March 2025</li>
       		<li>Doctoral Consortium - March 2025</li>	   
        		</ul>
+	<h2></h2>
+	<	<h2>Relevant topics</h2>
+	<p>Topics relevant to the conference include, but are not limited to:</p>
+	<li>Voice user experience</li>
+	<li>Speech Interfaces</li>
+	<li>Text-based conversational interfaces</li>
+	<li>Chatbots</li>
+	<li>Speech synthesis</li>
+	<li>Speech recognition</li>
+	<li>Context-aware dialogue management</li>
+	<li>Conversational search</li>
+	<li>Methods for conversational user interface development and evaluation</li>
+	<li>Multimodal interaction involving speech, text or other language based interfaces</li>
+	<li>Natural language processing and understanding related to the above</li>
+	<li>Ethical and privacy considerations related to the above</li>
+	<li>Large Language Models (LLMs)</li>
+
 
 	<h2></h2>
 	

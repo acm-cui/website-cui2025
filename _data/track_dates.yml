@@ -10,17 +10,17 @@ papers:
      homepage: true
 
   -  label: Notifications sent
-     date: 27th March 2025
+     date: 10th April 2025
 
-  -  label: Conditionally-accepted drafts due
-     date: 17th April 2025
+  -  label: Minor revisions due
+     date: 8th May 2025
      #_extended_date: 9th May 2024
 
-  -  label: Final notifications
-     date: 8th May 2025
+  -  label: Final revision confirmations
+     date: 15th May 2025
 
   -  label: Camera ready/TAPS due
-     date: 22nd May 2025
+     date: 29th May 2025
 
 
 

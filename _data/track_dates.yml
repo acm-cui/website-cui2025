@@ -68,7 +68,7 @@ interactivity:
 workshops:
   -  label: Submissions due
      date: 4th February 2025
-     #extended_date: 14th March 2024
+     extended_date: 11th February 2025
      homepage: true
 
   -  label: Notifications

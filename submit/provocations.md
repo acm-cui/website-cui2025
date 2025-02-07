@@ -26,9 +26,9 @@ menus:
 Provocations at CUI are original and unpublished contributions. A compelling provocation is succinct yet potent, encapsulating a daring, thought-provoking idea or proposal. It should be a catalyst, igniting robust debate and stimulating a rich exchange of ideas among conference attendees. Provocations challenge the status quo, dare to push conventionality, and are willing to incite strong reactions or dissent. Through such provocations, we aim to unsettle comfortable paradigms, question established wisdom, and spur academic curiosity in the domain of conversational user interfaces. We encourage out-of-the-box or even controversial ideas to be proposed through provocation. Submissions addressing the CUI 2025 theme of “Weaving Conversations Through Tradition and Innovation” are encouraged but not required.
 
 Here are some example provocation papers from previous CUI conferences: <br>
-[Can you meaningfully consent in eight seconds? Identifying Ethical Issues with Verbal Consent for Voice Assistants](https://doi.org/10.1145/3543829.3544521)
-[Who are CUIs Really For? Representation and Accessibility in the Conversational User Interface Literature](https://doi.org/10.1145/3571884.3603760)
-[Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents](https://doi.org/10.1145/3640794.3665887)
+[Can you meaningfully consent in eight seconds? Identifying Ethical Issues with Verbal Consent for Voice Assistants](https://doi.org/10.1145/3543829.3544521)<br>
+[Who are CUIs Really For? Representation and Accessibility in the Conversational User Interface Literature](https://doi.org/10.1145/3571884.3603760)<br>
+[Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents](https://doi.org/10.1145/3640794.3665887)<br>
 
 Late-breaking/non-provocative work should be submitted to the other tracks of CUI 2025 (either Posters or Demos are potentially applicable destinations).
 

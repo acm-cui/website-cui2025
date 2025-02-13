@@ -1,7 +1,7 @@
 papers:
   -  label: Abstracts and metadata due
      date: 13th February 2025
-     #extended_date: 22nd February 2024
+     extended_date: 27th February 2024
      homepage: true
 
   -  label: Submissions due

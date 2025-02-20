@@ -16,48 +16,6 @@ $nav-border:                          1px solid rgba($primary, 0.45);
 $nav-item-border:                     1px solid rgba(#000000, 0.05);
 $navbar-toggler-color:                #000000;
 
-$header-bg-prefill:                   null;
-
-
-$header-bg-imgs: (
-  xs: url(../img/masthead-bg-xs.png),
-  sm: url(../img/masthead-bg-sm.png),
-  md: url(../img/masthead-bg-md.png),
-  lg: url(../img/masthead-bg-lg.png),
-  xl: url(../img/masthead-bg-xl.png)
-);
-
-$header-fg-imgs: (
-  xs: url(../img/masthead-fg-xs.png?v=2),
-  sm: url(../img/masthead-fg-sm.png?v=2),
-  md: url(../img/masthead-fg-md.png?v=2),
-  lg: url(../img/masthead-fg-lg.png?v=2),
-  xl: url(../img/masthead-fg-xl.png?v=2)
-);
-
-$header-logo-ws: (
-  xs: 321px,
-  sm: 398px,
-  md: 490px,
-  lg: 587px,
-  xl: 671px
-);
-$header-logo-hs: (
-  xs: 230px,
-  sm: 277px,
-  md: 350px,
-  lg: 420px,
-  xl: 480px
-);
-
-$main-mt: (
-  xs: 107.5px,
-  sm: 130px,
-  md: 172px,
-  lg: 208px,
-  xl: 243px
-);
-
 $navbar-color:                        #000000;
 $navbar-hover-color:                  #000000;
 

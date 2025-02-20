@@ -15,8 +15,9 @@
     </head>
     <body class="my-0 mx-auto p-0">
         <header class="w-100">
-			<div class="w-100 h-100 prefill"></div>
-			<a href="{{ "/" | relative_url }}" class="d-block logo" title="Go to the ACM Conversational User Interfaces {{ site.conference.year }} homepage" alt="ACM CUI {{ site.conference.year }} will take place in  {{ site.conference.location }} from {{ site.conference.dates }}"><h1 class="sr-only">ACM Conversational User Interfaces</h1></a>
+			<div class="masthead">
+				<img class="w-100" srcset="{{ "/assets/img/masthead-xxl.png" | relative_url }} 1200w, {{ "/assets/img/masthead-xl.png" | relative_url }} 992w, {{ "/assets/img/masthead-lg.png" | relative_url }} 768w, {{ "/assets/img/masthead-md.png" | relative_url }} 576w" src="{{ "/assets/img/masthead-sm.png" | relative_url }}">
+			</div>
 			{%- include header_menu.html -%}
 		</header>
 		<section class="container pb-0 pt-3">

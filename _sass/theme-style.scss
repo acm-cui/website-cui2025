@@ -36,6 +36,7 @@ header {
   transition-timing-function: $transition-timing-function;
   transition-duration: $transition-duration;
   transition-property: box-shadow, background;
+  z-index: 10;
   
   &.open {
     position: fixed;

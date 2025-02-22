@@ -93,15 +93,15 @@ tutorials:
 
 doctoral_consortium:
   -  label: Applications due
-     date: 11th
-     extended_date: 18th April 2024
+     date: 10th April 2025
+     #extended_date: 18th April 2024
      homepage: true
 
   -  label: Notifications sent
-     date: 3rd June 2024
+     date: TBA
 
   -  label: Doctoral Consortium
-     date: 8th July 2024
+     date: 8th July 2025
 
 featured_talks:
   -  label: Submissions due

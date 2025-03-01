@@ -68,7 +68,7 @@ In your proposal please include:
 * <strong>Description:</strong> The covered topics and the depths to which you will cover them.
 * <strong>Relevance to CUI:</strong> Why is this tutorial relevant to CUI and of potential interest to attendees?
 * <strong>Learning Outcomes:</strong> What will attendees have learned/achieved after your tutorial?
-* <strong>Structure of the tutorial:</strong> A timeline and description of activities taking place during the tutorial (e.g. talks, discussion, group work, hands-on coding or design activities, panel discussions, demonstrations, Q&A). Tutorials have a recommended length between one and three hours.
+* <strong>Structure of the tutorial:</strong> A timeline and description of activities taking place during the tutorial (e.g. talks, discussion, group work, hands-on coding or design activities, panel discussions, demonstrations, Q&A). Tutorials must not exceed 1 hour and 30 minutes due to scheduling limitations.
 The intended audience(s) of the tutorial: Please outline likely attendees for your tutorial. Any prerequisite knowledge or background must be explicitly described (e.g. “basic Python programming skills”).
 Overview of the learning materials provided to the participants before and after the tutorial.
 * <strong>A brief biography of the instructor(s):</strong> We encourage a maximum of 3 presenters. Please provide adequate justification in case more are needed. If you plan to hold a panel or invited speakers during the tutorial, please provide brief details on these persons as well. Information on previous experience in organising tutorials (e.g. name, dates, conference, number of participants) is highly desirable.

@@ -34,6 +34,19 @@ To propose a workshop, you should write a proposal about the topic and your plan
 
 <em class="small">All deadlines are at <a href="https://time.is/Anywhere_on_Earth" title="The current time in 'Anywhere on Earth'">23:59 Anywhere on Earth</a></em>
 
+## Accepted Workshops
+**Personas Evolved: Designing Ethical LLM-Based Conversational Agent Personalities**
+Smit Desai, Mateusz Dubiel, Nima Zargham, Thomas Mildner, Laura Spillner
+**Designing Age-Inclusive Interfaces: Emerging Conversational and Generative AI to Support Interactions across the Life Span**
+Cosmin Munteanu, Sayan Sarcar, Jaisie Sin, Christina Ziying Wei, Dr Sergio Sayago, Wei Zhao, Rezvan Boostani, Moojan Ghafurian, Cristina Getson
+**ToMinHAI at CUI’2025: Theory of Mind in Human-CUI Interaction**
+Qiaosi Wang, Joel Wester, Marvin Pafla, Minha Lee, Justin D. Weisz
+**Conversational Health Interfaces in the Era of LLMs: Designing for Engagement, Privacy, and Wellbeing**
+Shashank Ahire, Melissa Guyre, Bradley Rey, Minha Lee, Heloisa Candello
+**Bias and Fairness in Conversational User Interface**
+Guy Laban, Julian Hough, Minha Lee, Alva Markelius, Mary Ellen Foster, Jane Stuart-Smith, Muneeb Ahmad
+
+
 ## The process
 
 All submissions will proceed through the following process. Please contact the <a href="{{ site.data.oc['tracks']['roles'][page.track.chairs]['email'] }}" title="Contact the CUI {{ site.conference.year }} {{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }} if you have any questions">{{ site.data.oc['tracks']['roles'][page.track.chairs]['label'] }}</a> if you have any questions.

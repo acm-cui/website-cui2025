@@ -42,7 +42,7 @@ Smit Desai, Mateusz Dubiel, Nima Zargham, Thomas Mildner, Laura Spillner
 Cosmin Munteanu, Sayan Sarcar, Jaisie Sin, Christina Ziying Wei, Dr Sergio Sayago, Wei Zhao, Rezvan Boostani, Moojan Ghafurian, Cristina Getson
 
 **ToMinHAI at CUI’2025: Theory of Mind in Human-CUI Interaction** <br>
-Qiaosi Wang, Joel Wester, Marvin Pafla, Minha Lee, Justin D. Weisz
+Qiaosi Wang, Joel Wester, Marvin Pafla, Minha Lee, Justin D. Weisz, Mei Si
 
 **Conversational Health Interfaces in the Era of LLMs: Designing for Engagement, Privacy, and Wellbeing** <br>
 Shashank Ahire, Melissa Guyre, Bradley Rey, Minha Lee, Heloisa Candello

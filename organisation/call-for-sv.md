@@ -35,7 +35,8 @@ You must be enrolled as a student during the Summer 2025 term. We are more than 
 The Student Volunteer chairs will select a maximum of 10 SVs, giving priority to students applying from underrepresented communities and the global south. In addition, we will select 5 students to be put on the waitlist.
 
 
-The call for SV will open on **{{ site.data.sv_dates.open }}** and will be closed on **{{ site.data.sv_dates.close }}**.
+The call for SV will open on **{{ site.data.sv_dates.open }}** and will be closed on **{{ site.data.sv_dates.close }}**.  If interested, you can apply by filling out this Google Form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5ebaktYa8Nic6cwP82GntjseKiaBMjDsSBpDlXslRjqc_GQ/viewform?usp=header" title="The current time in 'Anywhere on Earth'">CUI 2025 Student Volunteer Application</a>
+
 
 We will be accepting _**IN-PERSON SVs**_ for this year’s conference.
 
@@ -71,7 +72,7 @@ If you need to reach us, please always use the [{{ email }}](mailto:{{ email }})
 ## Frequently Asked Questions
 
 **Q: Where can I find the form to apply?**<br>
-**A:** Through [this Google form](https://forms.gle/vzXomtgRQ72XzYZt5).
+**A:** Through [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSe5ebaktYa8Nic6cwP82GntjseKiaBMjDsSBpDlXslRjqc_GQ/viewform?usp=header).
 
 **Q: I know the deadline for the application has passed, can I still be considered?**<br>
 **A:** Unfortunately, we will not be able to consider applications after the deadline has passed to make it fair for everyone who applied on time.

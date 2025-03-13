@@ -9,7 +9,7 @@ lastmod: page
 cta:
   text: Volunteer now
   title: Become a CUI Student Volunteer
-  link: https://forms.gle/vzXomtgRQ72XzYZt5
+  link: https://docs.google.com/forms/d/e/1FAIpQLSe5ebaktYa8Nic6cwP82GntjseKiaBMjDsSBpDlXslRjqc_GQ/viewform?usp=header
 
 menus:
   organisers:

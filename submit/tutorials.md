@@ -19,6 +19,25 @@ menus:
     sep_before: true
 ---
 
+## Deadlines
+
+{% for date in site.data.track_dates[page.track.dates] -%}
+{{ date.label }}: <br class="d-md-none">{% if date.extended_date %}<strike><em>{{ date.date }}</em></strike> <strong>{{ date.extended_date }}</strong>{% else %}<strong>{{ date.date }}</strong>{% endif %}<br><br {% unless forloop.last %}class="d-md-none"{% endunless %}>
+{%- endfor -%}
+
+<em class="small">All deadlines are at <a href="https://time.is/Anywhere_on_Earth" title="The current time in 'Anywhere on Earth'">23:59 Anywhere on Earth</a></em>
+
+## Accepted Tutorials
+<strong>Designing conversational agent(ic) systems</strong>
+Heloisa Candello & Michelle Brachman
+
+While researchers have been studying and building AI agents and autonomous systems for decades, generative AI and novel architectures have enabled a new generation of agentic systems. New frameworks are making it easier to create agentic systems in which agents powered by generative AI support more complex and ambiguous tasks with less human intervention. As agentic systems become easier to build and deploy, it is important to understand the capabilities, benefits, risks, and design considerations around these systems. In this tutorial, we introduce concepts and considerations behind designing building agentic systems in particular in the context of conversational systems. We address not only the basics of modern agentic systems, but also how these new systems relate to existing knowledge around the design of conversational interfaces.
+
+<strong>Building Conversational User Interfaces: An Architectural Exploration with Meta Glasses for Developers and Researchers</strong>
+Tobias Münch, Dr.-Ing. Sebastian Heil, Prof. Dr. Martin Gaedke
+
+Abstract: Meta and Ray-Ban developed Meta Glasses, a wearable technology breakthrough. It creates hands-free Conversational User Interfaces (CUIs) through audio input, cameras, and audio output. These capabilities make them well-suited for professional applications in fields like veterinary medicine and quality assurance, where users must efficiently capture images, organize workflows, and access critical information without interrupting their tasks. This tutorial addresses the gap between academic research and practical applications of CUIs for wearable devices. It explains the Meta Glasses architecture and its potential for other systems. We focus on connecting the glasses to third-party applications, leveraging community-driven tools without an official SDK. Outcomes include practical strategies for connecting own systems, API limitations and privacy concerns.
+
 ## Call for Tutorials
 
 CUI 2025 tutorials are in-depth presentations of fundamental or state-of-the-art topics presented by researchers or practitioners within the field of CUI. The tutorials offer attendees an introduction to novel concepts and technologies, empower them to learn new skills, and present them with possibilities to meet new people and discuss topics of shared interest. The scope for tutorials is broad and includes topics such as LLMs, context-aware conversational-agents, chatbots, Natural Language Processing for CA, personas in CA, Human-AI collaboration for different settings such as healthcare, education, home, public etc.
@@ -28,13 +47,6 @@ A tutorial should focus on its topic in detail and include references to the "mu
 The overall conference theme in 2025 is “Weaving Conversations Through Tradition and Innovation", so we invite tutorials to discuss ethical aspects of their work, as part of their problem definitions, system design, experiment design, instrument and metric adoption and conclusions.
 CUI2025 will be held in person in July 2025 in Waterloo, Ontario, Canada. Tutorials with the physical presence of the instructors are highly recommended.
 
-## Deadlines
-
-{% for date in site.data.track_dates[page.track.dates] -%}
-{{ date.label }}: <br class="d-md-none">{% if date.extended_date %}<strike><em>{{ date.date }}</em></strike> <strong>{{ date.extended_date }}</strong>{% else %}<strong>{{ date.date }}</strong>{% endif %}<br><br {% unless forloop.last %}class="d-md-none"{% endunless %}>
-{%- endfor -%}
-
-<em class="small">All deadlines are at <a href="https://time.is/Anywhere_on_Earth" title="The current time in 'Anywhere on Earth'">23:59 Anywhere on Earth</a></em>
 
 ## The process
 

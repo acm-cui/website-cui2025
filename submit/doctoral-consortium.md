@@ -6,9 +6,9 @@ description: The CUI !!conference.year!! Doctoral Consortium is designed to allo
 maintainer: dc
 lastmod: page
 
-cta:
-  text: Applications closed
-  title: Applications for the CUI 2024 Doctoral Consortium have now closed
+#cta:
+ # text: Applications closed
+ # title: Applications for the CUI 2024 Doctoral Consortium have now closed
 #  link: mailto:cui2024-dc@cui.acm.org
   
 track:

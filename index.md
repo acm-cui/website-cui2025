@@ -30,7 +30,7 @@ menu:
   		<ul>
     		<li class="pt-3">Papers - 13th February 2025</li>
        		<li>Provocations - <strike><em>10th April 2025</em></strike> <b> 17th April 2025 </b> </li>
-	  	<li> Short Papers & Works-in-Progress - 10th April 2025</li>
+	  	<li> Short Papers & Works-in-Progress - <strike><em>10th April 2025</em></strike>17th April 2025</li>
      		<li>Interactivity & Creativity - 10th April 2025</li>
 		<li>Workshops - <strike><em>4th February 2025</em></strike> <b>11th February 2025 </b></li>
    		<li>Tutorials - 3rd March 2025</li>

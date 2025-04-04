@@ -40,7 +40,7 @@ provocations:
 short_papers:
   -  label: Submissions due
      date: 10th April 2025
-     #extended_date: 18th April 2024
+     extended_date: 17th April 2025
      homepage: true
 
   -  label: Notifications

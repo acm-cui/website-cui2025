@@ -34,7 +34,7 @@ menu:
      		<li>Interactivity & Creativity - <strike><em>10th April 2025</em></strike> <b> 17th April 2025 </b> </li>
 		<li>Workshops - <strike><em>4th February 2025</em></strike> <b>11th February 2025 </b></li>
    		<li>Tutorials - 3rd March 2025</li>
-      		<li>Doctoral Consortium - 10th April 2025</li>	   
+      		<li>Doctoral Consortium - <strike><em>10th April 2025</em></strike> <b> 17th April 2025 </b> </li>
        		</ul>
 	<h2></h2>
 		<h2>Relevant topics</h2>

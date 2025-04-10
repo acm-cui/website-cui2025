@@ -47,7 +47,7 @@ Qiaosi Wang, Joel Wester, Marvin Pafla, Minha Lee, Justin D. Weisz, Mei Si
 [**Conversational Health Interfaces in the Era of LLMs: Designing for Engagement, Privacy, and Wellbeing**](https://ahireshashank.github.io/ConversationalHealthInterfaces-CUI2025/) <br>
 Shashank Ahire, Melissa Guyre, Bradley Rey, Minha Lee, Heloisa Candello
 
-**Bias and Fairness in Conversational User Interface**  <br>
+[**Bias and Fairness in Conversational User Interface**](https://sites.google.com/view/cuibiasandfairnes2025)  <br>
 Guy Laban, Julian Hough, Minha Lee, Alva Markelius, Mary Ellen Foster, Jane Stuart-Smith, Muneeb Ahmad
 
 

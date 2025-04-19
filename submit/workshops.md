@@ -38,7 +38,7 @@ To propose a workshop, you should write a proposal about the topic and your plan
 [**Personas Evolved: Designing Ethical LLM-Based Conversational Agent Personalities**](https://dml.uni-bremen.de/daip/CUI25/) <br>
 Smit Desai, Mateusz Dubiel, Nima Zargham, Thomas Mildner, Laura Spillner
 
-**Designing Age-Inclusive Interfaces: Emerging Conversational and Generative AI to Support Interactions across the Life Span** <br>
+[**Designing Age-Inclusive Interfaces: Emerging Conversational and Generative AI to Support Interactions across the Life Span**](https://speech-interaction.org/CUI2025-OA/) <br>
 Cosmin Munteanu, Sayan Sarcar, Jaisie Sin, Christina Ziying Wei, Dr Sergio Sayago, Wei Zhao, Rezvan Boostani, Moojan Ghafurian, Cristina Getson
 
 [**ToMinHAI at CUI’2025: Theory of Mind in Human-CUI Interaction**](https://tominhai-cui2025.github.io/) <br>

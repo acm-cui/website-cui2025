@@ -33,7 +33,7 @@ provocations:
 
   -  label: Notifications
      date: 15th May 2025
-     #extended_date: 15th May 2024
+     extended_date: 22th May 2024
 
   -  label: Camera ready/TAPS due
      date: 29th May 2025

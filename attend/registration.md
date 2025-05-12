@@ -134,7 +134,7 @@ For member rates, you must be a member of [ACM](https://acm.org "The Association
 
 The advertised student rates are restricted to registered and currently active students only, you wil be required to upload evidence of your student status. If you cannot provide proof of student status, you will be required to register as a _professional_ attendee.
 
-Workshops and the doctoral consortium are €80 each and must be registered for using the registration system. If you have already registered, you can update your registration. You will not be able to attend a workshop or the doctoral consortium without registering for it.
+Workshops are priced at $50 for students and $100 for non-students, and must be registered for via invite links only. If you have already registered, you can update your registration. You will not be able to attend a workshop or the doctoral consortium without registering for it.
 
 <!---All registration fees above are inclusive of Value Added Tax (VAT), which is charged at 17%. The registration system shows prices excluding VAT.-->
 

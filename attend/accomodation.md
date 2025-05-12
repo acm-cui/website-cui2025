@@ -13,21 +13,21 @@ menus:
     weight: 4
 ---
 
-<!--Conference attendees can benefit from discounted rates at the following three hotels <u>if booked before 9th of June 2024 (subject to availability).</u>
+Conference attendees can benefit from discounted rates at the following hotels near the University of Waterloo if booked before **9th June 2025** (subject to availability).
+The discount code will be provided in your **registration confirmation email**.  
 
-The discount code is provided in the registration confirmation email. -->
-### Off Campus:
-[Delta Hotels Waterloo](https://www.reservationcounter.com/hotels/show/6132995/delta-hotels-waterloo)  
-**Address**: 110 Erb Street West, Waterloo, Ontario, Canada, N2L 0C6  
-**Distance from the conference venue**: 1.8km
 
-<em class="small">Note: A limited number of rooms have been reserved for conference attendees and will be held only until June 3rd. We strongly encourage interested attendees to book as early as possible.</em>
+[Delta Hotels by Mariott Waterloo](https://www.marriott.com/event-reservations/reservation-link.mi?id=1721238500892&key=GRP&app=resvlink)  
+**Rate**: ~$200 CAD / night    
+**Address**: 110 Erb Street West, Waterloo, ON N2L 0C6  
+**Distance from the conference venue** (Federation Hall): 1.2km, ~15-minute walk or 5-minute drive
 
-### On Campus: 
-[Ron Eydt Village](https://uwaterloo.ca/campus-housing/residences/rev)  
-**Address**: 200 University Ave W, Waterloo ON N2L 3G5, Canada    
-**Distance from the conference venue**: 1.2km
+[University of Waterloo Summer Accommodations](https://eventworx.uwaterloo.ca/onlinereg/Register/default.aspx?code=C001177)  
+**Rate**: ~40-80 CAD / night  
+<ul>
+  <li><b>Ron Eydt Village (REV)</b></li>
+  <li><b>Makenzie King Village (MKV)</b></li>
+</ul> 
 
-[Mackenzie King Village](https://uwaterloo.ca/campus-housing/residences/mkv)  
-**Address**: 00 University Ave Waterloo ON N2J 4Z2, Canada  
-**Distance from the conference venue**: 1.3km
+**Distance from the conference venue**: Both are within walking distance to all CUI '25 venues
+

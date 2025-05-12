@@ -70,7 +70,10 @@ There are four different rates for registration at CUI {{ site.conference.year }
 				<td class="py-3">$850 USD</td>
 				<td class="py-3">$750 USD</td>
 		</tr>
-		<tr class="pb-3 border-bottom">
+		<tr>
+			<td colspan="2" class="small py-3 text-start text-secondary"><strong>Online attendance</strong></td>
+		</tr>
+			<tr class="pt-5 pb-3 border-top">
 				<td class="pe-3 py-3"><strong>Online</strong></td>
 				<td class="py-3">$150 USD</td>
 				<td class="py-3">$100 USD</td>
@@ -89,18 +92,26 @@ There are four different rates for registration at CUI {{ site.conference.year }
 	<tbody>
 		<tr class="mb-3 ">
 			<td class="pe-3 py-3"><strong>Early</strong></td>
-			<td class="py-3">€500</td>
-			<td class="py-3">€400</td>
+			<td class="py-3">$350 USD</td>
+			<td class="py-3">$300 USD</td>
 		</tr>
 		<tr class="pb-3">
 			<td class="pe-3 py-3"><strong>Late</strong></td>
-			<td class="py-3">€550</td>
-			<td class="py-3">€450</td>
+			<td class="py-3">$500 USD</td>
+			<td class="py-3">$450 USD</td>
 		</tr>
 		<tr class="pb-3 border-bottom">
 			<td class="pe-3 py-3"><strong>On-site</strong></td>
-			<td class="py-3">€600</td>
-			<td class="py-3">€500</td>
+			<td class="py-3">$500 USD</td>
+			<td class="py-3">$450 USD</td>
+		</tr>
+		<tr>
+			<td colspan="3" class="small py-3 text-start text-secondary"><strong>Online attendance</strong></td>
+		</tr>
+		<tr class="pt-5 pb-3 border-top">
+				<td class="pe-3 py-3"></td>
+				<td class="py-3">$150 USD</td>
+				<td class="py-3">$100 USD</td>
 		</tr>
 	</tbody>
 </table>
@@ -112,20 +123,28 @@ There are four different rates for registration at CUI {{ site.conference.year }
 		<th class="px-3 py-3 align-top text-center">Professional<br>Member</th>
 	</thead>
 	<tbody>
-		<tr class="mb-3">
+		<tr class="mb-3  border-bottom">
 			<td class="pe-3 py-3"><strong>Early</strong></td>
-			<td class="py-3">€700</td>
-			<td class="py-3">€600</td>
+			<td class="py-3">$700 USD</td>
+			<td class="py-3">$600 USD</td>
 		</tr>
 		<tr class="pb-3">
 			<td class="pe-3 py-3"><strong>Late</strong></td>
-			<td class="py-3">€800</td>
-			<td class="py-3">€700</td>
+			<td class="py-3">$850 USD</td>
+			<td class="py-3">$750 USD</td>
 		</tr>
 		<tr class="pb-3 border-bottom">
 			<td class="pe-3 py-3"><strong>On-site</strong></td>
-			<td class="py-3">€900</td>
-			<td class="py-3">800</td>
+			<td class="py-3">$850 USD</td>
+			<td class="py-3">$750 USD</td>
+		</tr>
+		<tr>
+			<td colspan="3" class="small py-3 text-start text-secondary"><strong>Online attendance</strong></td>
+		</tr>
+		<tr class="pt-5 pb-3 border-top">
+			<td class="pe-3 py-3"></td>
+			<td class="py-3">$250 USD</td>
+			<td class="py-3">$200 USD</td>
 		</tr>
 	</tbody>
 </table>
@@ -134,7 +153,7 @@ For member rates, you must be a member of [ACM](https://acm.org "The Association
 
 The advertised student rates are restricted to registered and currently active students only, you wil be required to upload evidence of your student status. If you cannot provide proof of student status, you will be required to register as a _professional_ attendee.
 
-Workshops are priced at $50 for students and $100 for non-students, and must be registered for via invite links only. If you have already registered, you can update your registration. You will not be able to attend a workshop or the doctoral consortium without registering for it.
+Workshops are priced at $50 for students and $100 for non-students, and must be registered for via invite links only. If you have already registered, you can update your registration. You will not be able to attend a workshop without registering for it.
 
 <!---All registration fees above are inclusive of Value Added Tax (VAT), which is charged at 17%. The registration system shows prices excluding VAT.-->
 

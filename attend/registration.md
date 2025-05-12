@@ -20,7 +20,7 @@ menus:
     weight: 0
 ---
 
-CUI {{ site.conference.year }} is intended to be an in-person conference, and as such, our registration fees reflect running an in-person event. However, we recognise that it may not be possible for everyone who wishes to attend to do so in-person, thus we also offer a virtual/online attendance-only option.
+CUI {{ site.conference.year }} is intended to be an in-person conference, and as such, our registration fees reflect running an in-person event. However, we recognize that it may not be possible for everyone who wishes to attend to do so in-person, thus we also offer a virtual/online attendance-only option.
 
 {% if page.registration_open %}
 Registration for CUI {{ site.conference.year }} is now open.

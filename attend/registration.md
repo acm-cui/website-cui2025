@@ -63,8 +63,8 @@ There are four different rates for registration at CUI {{ site.conference.year }
 				<td class="py-3">$850 USD</td>
 				<td class="py-3">$750 USD</td>
 		</tr>
-		<tr class="pb-3">
-				<td class="pe-3 py-3 border-bottom"><strong>On-site</strong></td>
+		<tr class="pb-3 border-bottom">
+				<td class="pe-3 py-3 "><strong>On-site</strong></td>
 				<td class="py-3">$500 USD</td>
 				<td class="py-3">$450 USD</td>
 				<td class="py-3">$850 USD</td>
@@ -74,7 +74,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 			<td colspan="2" class="small py-3 text-start text-secondary"><strong>Virtual/Online attendance</strong></td>
 		</tr>
 			<tr class="pt-5 pb-3 border-top">
-				<td class="pe-3 py-3"><strong>Online</strong></td>
+				<td class="pe-3 py-3"></td>
 				<td class="py-3">$150 USD</td>
 				<td class="py-3">$100 USD</td>
 				<td class="py-3">$250 USD</td>

@@ -49,6 +49,9 @@ If you register before selections are announced, your registration will be refun
 SV call open: **{{ site.data.sv_dates.open }}**<br>
 Lottery closed: **{{ site.data.sv_dates.close }}**<br>
 Results announced: **{{ site.data.sv_dates.results }}**<br>
+
+**Thank you to all the applicants for their submission to be CUI 2025 SVs! Results notifications were emailed on May 12, 2025.**
+ 
 <em class="small"><br>All deadlines are at <a href="https://time.is/Anywhere_on_Earth" title="The current time in 'Anywhere on Earth'">23:59 Anywhere on Earth</a></em>
 
 ## What will I do when I volunteer?

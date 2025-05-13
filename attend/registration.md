@@ -38,7 +38,6 @@ Please ensure you register at the correct rate—if you do not, you will be liab
 There are four different rates for registration at CUI {{ site.conference.year }} in-person and two different registration deadlines:
 
 * Early registration closes on **13th June 2025**
-* Late registration closes on **8th July 2025**
 
 <table class="registration-rates mx-auto mt-4 mb-3 text-center d-md-table d-none">
 	<thead class="border-bottom">
@@ -57,7 +56,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 				<td class="py-3">$600 USD</td>
 		</tr>
 		<tr class="pb-3">
-				<td class="pe-3 py-3"><strong>Late/On-site</strong></td>
+				<td class="pe-3 py-3"><strong>Regular/On-site</strong></td>
 				<td class="py-3">$500 USD</td>
 				<td class="py-3">$450 USD</td>
 				<td class="py-3">$850 USD</td>
@@ -89,7 +88,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 			<td class="py-3">$300 USD</td>
 		</tr>
 		<tr class="pb-3">
-			<td class="pe-3 py-3"><strong>Late/On-site</strong></td>
+			<td class="pe-3 py-3"><strong>Regular/On-site</strong></td>
 			<td class="py-3">$500 USD</td>
 			<td class="py-3">$450 USD</td>
 		</tr>
@@ -117,7 +116,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 			<td class="py-3">$600 USD</td>
 		</tr>
 		<tr class="pb-3">
-			<td class="pe-3 py-3"><strong>Late/On-site</strong></td>
+			<td class="pe-3 py-3"><strong>Regular/On-site</strong></td>
 			<td class="py-3">$850 USD</td>
 			<td class="py-3">$750 USD</td>
 		</tr>

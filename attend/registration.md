@@ -57,14 +57,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 				<td class="py-3">$600 USD</td>
 		</tr>
 		<tr class="pb-3">
-				<td class="pe-3 py-3"><strong>Late</strong></td>
-				<td class="py-3">$500 USD</td>
-				<td class="py-3">$450 USD</td>
-				<td class="py-3">$850 USD</td>
-				<td class="py-3">$750 USD</td>
-		</tr>
-		<tr class="pb-3 border-bottom">
-				<td class="pe-3 py-3 "><strong>On-site</strong></td>
+				<td class="pe-3 py-3"><strong>Late/On-site</strong></td>
 				<td class="py-3">$500 USD</td>
 				<td class="py-3">$450 USD</td>
 				<td class="py-3">$850 USD</td>
@@ -96,12 +89,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 			<td class="py-3">$300 USD</td>
 		</tr>
 		<tr class="pb-3">
-			<td class="pe-3 py-3"><strong>Late</strong></td>
-			<td class="py-3">$500 USD</td>
-			<td class="py-3">$450 USD</td>
-		</tr>
-		<tr class="pb-3 border-bottom">
-			<td class="pe-3 py-3"><strong>On-site</strong></td>
+			<td class="pe-3 py-3"><strong>Late/On-site</strong></td>
 			<td class="py-3">$500 USD</td>
 			<td class="py-3">$450 USD</td>
 		</tr>
@@ -129,12 +117,7 @@ There are four different rates for registration at CUI {{ site.conference.year }
 			<td class="py-3">$600 USD</td>
 		</tr>
 		<tr class="pb-3">
-			<td class="pe-3 py-3"><strong>Late</strong></td>
-			<td class="py-3">$850 USD</td>
-			<td class="py-3">$750 USD</td>
-		</tr>
-		<tr class="pb-3 border-bottom">
-			<td class="pe-3 py-3"><strong>On-site</strong></td>
+			<td class="pe-3 py-3"><strong>Late/On-site</strong></td>
 			<td class="py-3">$850 USD</td>
 			<td class="py-3">$750 USD</td>
 		</tr>
@@ -153,7 +136,7 @@ For member rates, you must be a member of [ACM](https://acm.org "The Association
 
 The advertised student rates are restricted to registered and currently active students only, you wil be required to upload evidence of your student status. If you cannot provide proof of student status, you will be required to register as a _professional_ attendee.
 
-Workshops are priced at $50 for students and $100 for non-students, and must be registered for via invite links only. If you have already registered, you can update your registration. You will not be able to attend a workshop without registering for it.
+Workshops are priced at $50 for students and $100 for non-students, and must be registered for via invite links only. If you have already registered, you can modify your registration to add a workshop at any time. You will not be able to attend a workshop without registering for it.
 
 <!---All registration fees above are inclusive of Value Added Tax (VAT), which is charged at 17%. The registration system shows prices excluding VAT.-->
 

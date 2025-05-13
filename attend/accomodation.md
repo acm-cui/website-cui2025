@@ -19,8 +19,8 @@ The discount code will be provided in your **registration confirmation email**.
 
 [Delta Hotels by Mariott Waterloo](https://www.marriott.com/event-reservations/reservation-link.mi?id=1721238500892&key=GRP&app=resvlink)  
 **Rate**: ~$200 CAD / night    
-**Address**: 110 Erb Street West, Waterloo, ON N2L 0C6  
-**Distance from the conference venue** (Federation Hall): 1.2km, ~15-minute walk or 5-minute drive
+**Address**: 110 Erb Street West, Waterloo, ON N2L 0C6   
+**Distance from the conference venue** (Federation Hall): 1.2km, ~15-minute walk or 5-minute drive  
 
 [University of Waterloo Summer Accommodations](https://eventworx.uwaterloo.ca/onlinereg/Register/default.aspx?code=C001177)  
 **Rate**: ~40-80 CAD / night  

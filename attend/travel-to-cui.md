@@ -17,7 +17,7 @@ menus:
 ## About Waterloo
 
 For information about things to see and do in Luxembourg, check out: ·
-* [TripAdvisor:Waterloo](https://www.tripadvisor.ca/Tourism-g181736-Waterloo_Region_of_Waterloo_Ontario-Vacations.html)
+* [TripAdvisor: Waterloo](https://www.tripadvisor.ca/Tourism-g181736-Waterloo_Region_of_Waterloo_Ontario-Vacations.html)
 * [Explore Waterloo Region](https://explorewaterloo.ca/)
 * [City of Waterloo Visitor Information Centre](https://www.waterloo.ca/en/things-to-do/visitor-centre.aspx)
 
@@ -31,7 +31,7 @@ The most convenient airport for reaching Waterloo is **Toronto Pearson Internati
 
 Alternatively, **Region of Waterloo International Airport (YKF)** offers limited direct flights within Canada and the U.S., and is only **20 minutes by car** from the University of Waterloo.
 
-## By train
+### By train
 
 Via Rail operates regular train service to **Kitchener Station**, which is approximately **15 minutes from the University of Waterloo** by taxi, bus, or light rail (ION). Travelers from Toronto can also take **GO Transit** (bus or train service), which offers affordable and frequent options, especially from **Union Station**.
 
@@ -54,7 +54,7 @@ Public transportation within Waterloo is operated by **Grand River Transit (GRT)
 For real-time route planning, visit [grt.ca](https://www.grt.ca/en/index.aspx) or use Google Maps with public transit enabled.
 
 
-## Getting to CUI '25 Venues
+<!--## Getting to CUI '25 Venues
 
 All CUI ’25 activities will take place at the **University of Waterloo**, located in Waterloo, Ontario, Canada.
 
@@ -66,4 +66,4 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
 
 The **main conference program** will take place at **Federation Hall**, a dedicated conference venue on campus within walking distance from the DC building and UW Station.
 
-For directions and real-time transit suggestions, use [Google Maps](https://maps.google.com/) with public transit enabled, or visit [grt.ca.](https://www.grt.ca/en/index.aspx) All venues are fully accessible.
+For directions and real-time transit suggestions, use [Google Maps](https://maps.google.com/) with public transit enabled, or visit [grt.ca.](https://www.grt.ca/en/index.aspx) All venues are fully accessible. -->

@@ -1,5 +1,5 @@
 ---
-title: Discounted Registration
+title: Discounted Registrations
 label: Discounted Registration Eligibility
 description: Details about the reduced rate for CUI !!conference.year!! attendees who live in an economically developing country.
 

@@ -17,21 +17,19 @@ menus:
 
 There are two ways to request a visa support letter—**please use only one method** to avoid delays:
 
-<ol>
-  <li><b>Fastest method: Request through registration</b>   
-During the registration process, you will be prompted to enter the necessary information to generate a visa letter automatically through ACM. Letters are typically issued within <b>2 business days</b>.</li>
-  <li><b>Alternative method (for accepted authors or committee members only): Email request</b>  
-If you are not yet registering but require a visa letter (e.g., for early planning), send an email to **supportletters@acm.org**. Please allow up to **10 business days** for processing. Include the following in your request:
-    <ul>
-      <li>Full name (as it appears on your passport)</li>
-      <li>Current postal mailing address</li>
-      <li>Name of the conference: CUI 2025 – *Conversational User Interfaces*</li>
-      <li>Registration confirmation number (if available)</li>
-      <li>Title of your accepted paper or poster, and indicate if you are the “sole author” or a “co-author”</li>
-      <li>If applicable, title of your presentation (for invited speakers)</li>
-    </ul>
-  </li>
-</ol?>
 
+1. <b>Fastest method: Request through registration</b>     
+During the registration process, you will be prompted to enter the necessary information to generate a visa letter automatically through ACM. Letters are typically issued within <b>2 business days</b>.</li>
+
+2. <b>Alternative method (for accepted authors or committee members only): Email request</b>  
+If you are not yet registering but require a visa letter (e.g., for early planning), send an email to [supportletters@acm.org](mailto:supportletters@acm.org "Email ACM for a visa support letter"). Please allow up to <b>10 business days</b> for processing. Include the following in your request:
+
+* Full name (as it appears on your passport)</li>
+* Current postal mailing address</li>
+* Name of the conference: CUI 2025 – <b>Conversational User Interfaces</b></li>
+* Registration confirmation number (if available)</li>
+* Title of your accepted paper or poster, and indicate if you are the “sole author” or a “co-author”</li>
+* If applicable, title of your presentation (for invited speakers)</li>
+    
 All requests are processed in the order received.
 

@@ -14,12 +14,12 @@ menus:
     sep_before: true
 ---
 
-## About Waterloo
+<!-- ## About Waterloo
 
 For information about things to see and do in Luxembourg, check out: ·
 * [TripAdvisor: Waterloo](https://www.tripadvisor.ca/Tourism-g181736-Waterloo_Region_of_Waterloo_Ontario-Vacations.html)
 * [Explore Waterloo Region](https://explorewaterloo.ca/)
-* [City of Waterloo Visitor Information Centre](https://www.waterloo.ca/en/things-to-do/visitor-centre.aspx)
+* [City of Waterloo Visitor Information Centre](https://www.waterloo.ca/en/things-to-do/visitor-centre.aspx) -->
 
 ## Getting to Waterloo
 
@@ -82,4 +82,4 @@ At the University of Waterloo, most buildings have long names abbreviated by an 
 
 The **main conference program** will take place at **Federation Hall**, a dedicated conference venue on campus within walking distance from the DC building and UW Station.
 
-For directions and real-time transit suggestions, use [Google Maps](https://maps.google.com/) with public transit enabled, or visit [grt.ca.](https://www.grt.ca/en/index.aspx) All venues are fully accessible. --> -->
+For directions and real-time transit suggestions, use [Google Maps](https://maps.google.com/) with public transit enabled, or visit [grt.ca.](https://www.grt.ca/en/index.aspx) All venues are fully accessible. -->

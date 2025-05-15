@@ -27,9 +27,9 @@ For information about things to see and do in Luxembourg, check out: ·
 
 The most convenient airport for reaching Waterloo is **Toronto Pearson International Airport (YYZ)**. It is approximately 1 hour by car from Pearson to Waterloo. Rental cars, airport shuttles, bus, trains, and rideshare services (e.g., Uber, Lyft) are all available to connect Pearson Airport to Waterloo.
 
-Rental cars: this is likely the most convenient option, although depending on your arrival time the drive time from the airport to Waterloo may be significantly longer due to significant traffic on the highway.
+**Rental cars:** this is likely the most convenient option, although depending on your arrival time the drive time from the airport to Waterloo may be significantly longer due to significant traffic on the highway.
 
-Taxi / ride-share:  A taxi or ride-share typically costs CAD $100–150 (please note the above re: traffic)
+**Taxi / ride-share:**  A taxi or ride-share typically costs CAD $100–150 (please note the above re: traffic)
 
 **Airport shuttle:** Airways Transit operates shared-van shuttles from Pearson airport: [https://www.airwaystransit.com/.](https://www.airwaystransit.com/) Please note that the service tends to sell out fast, and we recommend booking your seat at least two weeks in advance.
 

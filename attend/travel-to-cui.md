@@ -40,10 +40,7 @@ The most convenient airport for reaching Waterloo is **Toronto Pearson Internati
 **Bus:** Flix Bus [(https://www.flixbus.ca/bus/toronto-on)](https://www.flixbus.ca/bus/toronto-on) runs several daily trips between Pearson Airport and Kitchener. 
 
 **Alternative airport:** Some international connections may be more convenient if flying into Toronto’s secondary airport – **Billy Bishop Airport (YTZ)** – usually if connecting on a flight in Montreal or Ottawa. Billy Bishop airport offers a complimentary shuttle from the airport to Union Station in Toronto (about a 10 min ride) – from there you can catch a GO Train or GO Train/Bus to Kitchener.
-<!-- 
-**Arriving at Billy Bishop Airport**? Getting to Waterloo is straightforward! From the airport, take the free shuttle or a quick taxi ride to Union Station in downtown Toronto. From there, you can catch a **GO Transit train or bus** to Kitchener GO Station—Waterloo's neighboring city. The trip typically takes around **2 to 2.5 hours**. For added convenience, consider booking a **rental car** or a **rideshare service**, which can get you to Waterloo in about **1.5 to 2 hours**, depending on traffic. We recommend planning ahead, especially during peak travel times!
 
-Alternatively, **Region of Waterloo International Airport (YKF)** offers limited direct flights within Canada and the U.S., and is only **20 minutes by car** from the University of Waterloo. -->
 
 ### By plane - from the US or from Canada   
 Region of Waterloo International Airport (YKF) offers limited direct flights within Canada and the U.S., and is easily accessible by taxi / ride-share from the University of Waterloo campus as well as by public transit.

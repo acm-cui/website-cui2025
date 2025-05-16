@@ -60,23 +60,46 @@ Getting around Waterloo is possible through public transportation operated throu
 
 University of Waterloo Station is located right outside of Engineering 5 and 7, where most of our workshops and events will be hosted for CUI 2025.  For detailed timetable and real-time route suggestions, please visit the GRT website [https://www.grt.ca/en/index.aspx.](https://www.grt.ca/en/index.aspx) 
 
-### By car
+### By car  
 One of the most efficient ways to explore Waterloo is by car. There are typically parking lots at most tourist attractions, and it is the most time-efficient way to explore Waterloo Region and surrounding areas. Uber and Lyft are affordable options for getting to destinations quickly. 
 
-<!-- ## Getting to CUI '25 Venues
 
-## Common Acronyms
-At the University of Waterloo, most buildings have long names abbreviated by an acronym. Here are some helpful ones you may want to keep in mind while visiting the campus.  -->
+## Getting to CUI ‘25 Venues
+At the University of Waterloo, most buildings have long names abbreviated by an acronym. Here are some helpful ones you may want to keep in mind while visiting the campus.  
+Here are some helpful ones you may want to keep in mind while visiting the campus. 
+
+<div class="row">
+    <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+        <img src="{{ "/assets/img/E7.jpg" | relative_url }}" alt="An image of the Engineering 7 Building" title="Engineering 7 Building" class="rounded shadow" style="max-width: 100%">
+    </div>
+    <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+        <img src="{{ "/assets/img/E5.jpg" | relative_url }}" alt="An image of Engineering 5 building" title="Engineering 5 Building" class="rounded shadow" style="max-width: 100%">
+    </div>
+</div>
+
+<div class="row">
+  <div class="col-12 mt-1 text-center">
+  <p><b>E5, E7</b>– Engineering 5 and 7, where most, if not all of our workshops take place. </p>
+  </div>
+</div>
+<div class="row">
+    <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+        <img src="{{ "/assets/img/Davis-Lib.jpg" | relative_url }}" alt="An image of Davis Centere Library" title="Davis Centre Library" class="rounded shadow" style="max-width: 100%">
+        <p style="text-align:center"><b>DC</b>– Davis Centre Library </p>
+    </div>
+    <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+        <img src="{{ "/assets/img/SLC.png" | relative_url }}" alt="An image of Student Life Centgre" title="Student life centre" class="rounded shadow" style="max-width: 100%">
+        <p> <b>SLC</b>– Student Life Centre. This is a hub for food and other on-campus services. </p>
+    </div>
+</div>
 
 
-<!-- All CUI ’25 activities will take place at the **University of Waterloo**, located in Waterloo, Ontario, Canada.
 
-**Day 1 (8th July 2025):** 
-**Workshops and Doctoral Consortium** will be held in **Davis Centre (DC)** on the University of Waterloo main campus. The DC building is centrally located and accessible via **ION light rail** (UW Station) and several local **GRT bus routes.**
+## About Waterloo - leisure and post/pre-conference suggestions
+Waterloo is located in Southern Ontario, with easy access to many touristic attractions. Within the Region of Waterloo the most visited attraction is the St. Jacobs farmer market (stay tuned for an announcement regarding the conference program as we are planning some organized activities at the market!). There are numerous other attractions within the region, from museums to outdoor / nature walks – please check the Explore Waterloo page [(https://explorewaterloo.ca)](https://explorewaterloo.ca/) for suggestions from the official tourist guide provided by the Region of Waterloo.  
+
+For those looking to spend a few extra days before or after the conference, there are several attractions within a day trip or worth considering for a short stay, including: The Village of St. Jacobs (a few minutes away from Waterloo, an old quaint town [https://www.stjacobsvillage.com](https://www.stjacobsvillage.com/)), Guelph (famous among other things for its very large arboretum), the Royal Botanical Gardens of Canada (in Hamilton, about an hour from Waterloo), Toronto (largest city in Canada, with several famous landmarks such as the CN Tower and a multicultural food and entertainment scene), Niagara Falls, Niagara-on-the-Lake (picturesque town), or the Niagara wine region. For more suggestions please consult the official website of Tourism Ontario: [https://www.destinationontario.com/en-ca](https://www.destinationontario.com/en-ca)
 
 
-**Days 2 and 3 (9th and 10th July 2025):** 
 
-The **main conference program** will take place at **Federation Hall**, a dedicated conference venue on campus within walking distance from the DC building and UW Station.
 
-For directions and real-time transit suggestions, use [Google Maps](https://maps.google.com/) with public transit enabled, or visit [grt.ca.](https://www.grt.ca/en/index.aspx) All venues are fully accessible. -->

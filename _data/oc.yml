@@ -110,7 +110,12 @@
                 position: PhD Candidate
                 institution: University of Waterloo
                 country: Canada
-                image:  veen-wong.jpg           
+                image:  veen-wong.jpg    
+              - name: Jieun Lee
+                position: MASc student
+                institution: University of Waterloo
+                country: Canada
+                image:         
         diversity:
             label: Diversity & Inclusion Chair
             email: 'mailto:cui2025-inclusion@cui.acm.org'

@@ -19,11 +19,11 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
 
 
 
-**Days 2 and 3 (9th and 10th July 2025):** 
+<!-- **Days 2 and 3 (9th and 10th July 2025):** 
 
-The **main conference program** will take place at **Federation Hall**, a dedicated conference venue on campus within walking distance from the DC building and UW Station.
+The **main conference program** will take place at **Federation Hall**, a dedicated conference venue on campus within walking distance from the DC building and UW Station. -->
 
-For directions and real-time transit suggestions, use [Google Maps](https://maps.google.com/) with public transit enabled, or visit [grt.ca.](https://www.grt.ca/en/index.aspx) All venues are fully accessible. -->
+<!-- For directions and real-time transit suggestions, use [Google Maps](https://maps.google.com/) with public transit enabled, or visit [grt.ca.](https://www.grt.ca/en/index.aspx) All venues are fully accessible. -->
 
 ## Day 1 (8th July 2025) – Engineering 5 (E5)
 <div class="row">

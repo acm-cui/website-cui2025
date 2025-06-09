@@ -19,17 +19,17 @@ There are two ways to request a visa support letter—**please use only one meth
 
 
 1. <b>Fastest method: Request through registration</b>     
-During the registration process, you will be prompted to enter the necessary information to generate a visa letter automatically through ACM. Letters are typically issued within <b>2 business days</b>.</li>
+During the registration process, you will be prompted to enter the necessary information to generate a visa letter automatically through ACM. Letters are typically issued within <b>2 business days</b>.
 
 2. <b>Alternative method (for accepted authors or committee members only): Email request</b>  
 If you are not yet registering but require a visa letter (e.g., for early planning), send an email to [supportletters@acm.org](mailto:supportletters@acm.org "Email ACM for a visa support letter"). Please allow up to <b>10 business days</b> for processing. Include the following in your request:
 
-* Full name (as it appears on your passport)</li>
-* Current postal mailing address</li>
-* Name of the conference: CUI 2025 – <b>Conversational User Interfaces</b></li>
-* Registration confirmation number (if available)</li>
-* Title of your accepted paper or poster, and indicate if you are the “sole author” or a “co-author”</li>
-* If applicable, title of your presentation (for invited speakers)</li>
+* Full name (as it appears on your passport)
+* Current postal mailing address
+* Name of the conference: CUI 2025 – <b>Conversational User Interfaces</b>
+* Registration confirmation number (if available)
+* Title of your accepted paper or poster, and indicate if you are the “sole author” or a “co-author”
+* If applicable, title of your presentation (for invited speakers)
     
 All requests are processed in the order received.
 

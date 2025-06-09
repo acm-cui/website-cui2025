@@ -13,7 +13,7 @@ menus:
     weight: 4
 ---
 
-Conference attendees can benefit from discounted rates at the following hotels near the University of Waterloo if booked before **June 9th** (subject to availability). For each, the accommodation reservation link is provided in your **registration confirmation email**.
+<!-- Conference attendees can benefit from discounted rates at the following hotels near the University of Waterloo if booked before **June 9th** (subject to availability). For each, the accommodation reservation link is provided in your **registration confirmation email**. -->
 
 
 [Delta Hotels by Mariott Waterloo](https://www.marriott.com/event-reservations/reservation-link.mi?id=1721238500892&key=GRP&app=resvlink)  

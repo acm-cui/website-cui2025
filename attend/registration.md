@@ -29,7 +29,7 @@ We hope to open registration for CUI {{ site.conference.year }} very soon.
 <!-- Online registration has now closed, and you must register on-site.-->
 {% endif %}
 
-Authors with papers accepted must register no later than **13th June 2025**. At least one author of each accepted paper, poster, DC, or demo must be registered to attend the conference in person. Any submission without a corresponding registration may be withheld from publication. We will support remote presentations only in an emergency (i.e., VISA being denied). 
+Authors with papers accepted must register no later than **13th June 2025**. Each accepted paper, poster, DC, or demo must be attached to a registration (whether on-site or online). Multiple papers can be attached to a single registration. Changes to the registration category (particularly, moving from in-person to virtual and issuing a refund) will not be permitted after June 18 (exceptional circumstances may be allowed). Any submission without a corresponding registration may be withheld from publication. We will support remote presentations only in an emergency (i.e., VISA being denied). 
 Please ensure you register at the correct rate—if you do not, you will be liable to pay the difference. You can revise your registration online up to one week before the conference.
 
 

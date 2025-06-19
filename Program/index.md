@@ -4,8 +4,8 @@ label: Program
 description: >-
   The online program for the !!conference.year!! Conversational User Interfaces conference.
 
-redirect_from:
-  - /program/
+# redirect_from:
+#   - /program/
 
 cta:
   title: View the program

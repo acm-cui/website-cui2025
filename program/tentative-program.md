@@ -3,15 +3,12 @@ label: Program
 title: Tentative Program
 description: The online programme for the !!conference.year!! Conversational User Interfaces conference.
 
-maintainer: socialmedia
-lastmod: page
-
 menus:
-  main:
-    title: main
+  Program:
+    title: Tentative Program
     alt: The online program for the !!conference.year!! Conversational User Interfaces conference
     weight: 1
-    identifier: program 
+
 
 ---
 

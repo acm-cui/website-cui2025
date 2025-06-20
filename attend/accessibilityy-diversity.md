@@ -3,7 +3,7 @@ title: Accessibility and Diversity
 label: Accessibility and Diversity
 description: Information about how we're supporting accessibility and diversity at CUI !!conference.year!!.
 
-maintainer: diversity
+maintainer: accessibility 
 lastmod: page
 
 registration_open: false
@@ -42,6 +42,13 @@ If you request sign language interpretation in your conference registration, we 
 
 ## What are the public transport options for getting to the conference venue?
 For information about the public transport options for getting to the conference venue, please see [travel information for CUI]({{ "/attend/travel-to-cui/" | relative_url }} "Travel information for CUI {{ site.conference.year }}").
+
+## Venue Accessibility
+There are elevators and wheelchair-accessible washrooms on every floor. Please see additional venue-specific accessibility information below.
+[**Engineering 5 (E5) | Campus Accessibility | University of Waterloo**](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/engineering-5-e5)
+The main entrance facing Davis Centre (DC) is ramped and accesses the second floor.
+[**Federation Hall (FED) | Campus Accessibility | University of Waterloo**] (https://uwaterloo.ca/accessibility/getting-around/building-accessibility/federation-hall-fed)
+Two accessible entrances are the main entrance facing Ring Road (automated door and ramp).
 
 ## I have another question.
 

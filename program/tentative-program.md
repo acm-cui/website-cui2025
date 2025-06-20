@@ -8,8 +8,8 @@ lastmod: page
 
 menus:
   program:
-    Text: Tentative Program
-    title: Tentative Program
+    text: Tentative Program
+    title: he tentative program for CUI !!conference.year!!
     alt: The online program for the !!conference.year!! Conversational User Interfaces conference
     weight: 1
 

@@ -21,5 +21,24 @@ menus:
 ---
 
  Main track papers will be presented in the format of a panel, consisting of presentations of 7 minutes per paper, followed by a 25 mins panel-style discussion with presenting authors, led by a discussant (session chair). Audience will submit questions for consideration by the discussant. Each paper panel session will also include 1 to 2 pre-recorded paper presentations from authors who cannot attend in person.
- 
+
 The provocations session will include 3-minute presentations for each provocation paper, followed by a 15-minute soapbox-style discussion with presenters.
+
+<table>
+     <thead>
+       <tr>
+         <th>Header 1</th>
+         <th>Header 2</th>
+       </tr>
+     </thead>
+     <tbody>
+       <tr>
+         <td>Row 1, Cell 1</td>
+         <td>Row 1, Cell 2</td>
+       </tr>
+       <tr>
+         <td>Row 2, Cell 1</td>
+         <td>Row 2, Cell 2</td>
+       </tr>
+     </tbody>
+   </table>

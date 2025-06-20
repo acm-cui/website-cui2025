@@ -24,7 +24,7 @@ menus:
 The provocations session will include 3-minute presentations for each provocation paper, followed by a 15-minute soapbox-style discussion with presenters.
 
 
-<table-bordered class="registration-rates mx-auto mt-4 mb-3 text-center d-md-table d-none"><thead>
+<table class="registration-rates mx-auto mt-4 mb-3 text-center d-md-table d-none"><thead>
   <tr >
     <th class="px-3 pb-3 align-top text-center"></th>
     <th class="px-3 pb-3 align-top text-center">Tuesday</th>

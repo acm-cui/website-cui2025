@@ -9,7 +9,6 @@ menus:
     title: The online programme for the !!conference.year!! Conversational User Interfaces conference.
     weight: 11
 
-
 |       | Tuesday           |      | Wednesday         |      | Thursday                   |
 |-------|-------------------|------|-------------------|------|----------------------------|
 | 8:00  | Registration open | 8:00 | Registration open | 7:30 | Visit to St. Jacobs Market |
@@ -24,21 +23,3 @@ menus:
 
 The provocations session will include 3-minute presentations for each provocation paper, followed by a 15-minute soapbox-style discussion with presenters.
 
-<table>
-     <thead>
-       <tr>
-         <th>Header 1</th>
-         <th>Header 2</th>
-       </tr>
-     </thead>
-     <tbody>
-       <tr>
-         <td>Row 1, Cell 1</td>
-         <td>Row 1, Cell 2</td>
-       </tr>
-       <tr>
-         <td>Row 2, Cell 1</td>
-         <td>Row 2, Cell 2</td>
-       </tr>
-     </tbody>
-   </table>

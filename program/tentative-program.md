@@ -17,7 +17,6 @@ menus:
 ---
 
 
- 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -25,14 +24,15 @@ menus:
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 900px"><colgroup>
-<col style="width: 73px">
-<col style="width: 242px">
-<col style="width: 290px">
-<col style="width: 295px">
+<table class="tg" style="undefined;table-layout: fixed; width: 919px"><colgroup>
+<col style="width: 75px">
+<col style="width: 247px">
+<col style="width: 296px">
+<col style="width: 301px">
 </colgroup>
 <thead>
   <tr>
@@ -62,29 +62,31 @@ menus:
   </tr>
   <tr>
     <td class="tg-9wq8">9:00</td>
-    <td class="tg-9wq8" rowspan="5">Workshops</td>
+    <td class="tg-9wq8" rowspan="6">Workshops </td>
     <td class="tg-9wq8" rowspan="2">Welcome</td>
-    <td class="tg-9wq8" rowspan="2"></td>
+    <td class="tg-9wq8" rowspan="3"></td>
   </tr>
   <tr>
     <td class="tg-9wq8">9:15</td>
   </tr>
   <tr>
     <td class="tg-9wq8">9:30</td>
-    <td class="tg-9wq8" rowspan="2">Smudging Ceremony</td>
-    <td class="tg-9wq8" rowspan="2"></td>
+    <td class="tg-9wq8" rowspan="4">Keynote</td>
   </tr>
   <tr>
     <td class="tg-9wq8">9:45</td>
+    <td class="tg-9wq8" rowspan="4">Keynote</td>
   </tr>
   <tr>
     <td class="tg-9wq8">10:00</td>
-    <td class="tg-9wq8" rowspan="2">Keynote</td>
-    <td class="tg-9wq8" rowspan="2">Keynote</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">10:15</td>
   </tr>
   <tr>
     <td class="tg-9wq8">10:30</td>
     <td class="tg-9wq8" rowspan="3">Break</td>
+    <td class="tg-9wq8">Smudging</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
@@ -96,9 +98,9 @@ menus:
   </tr>
   <tr>
     <td class="tg-9wq8">11:15</td>
-    <td class="tg-9wq8" rowspan="7"></td>
-    <td class="tg-9wq8" rowspan="5">Paper Panel #1</td>
-    <td class="tg-9wq8" rowspan="5">Paper Panel #2</td>
+    <td class="tg-9wq8" rowspan="7">Workshops continue</td>
+    <td class="tg-9wq8" rowspan="5"><span style="font-weight:bold">Paper Panel #1</span><br><span style="font-weight:bold">Trust, Human Behaviour, and CUIs</span></td>
+    <td class="tg-9wq8" rowspan="5"><span style="font-weight:bold">Paper Panel #4</span><br><span style="font-weight:bold;font-style:italic">CUIs for Health and Wellbeing</span></td>
   </tr>
   <tr>
     <td class="tg-9wq8">11:30</td>
@@ -141,8 +143,8 @@ menus:
   </tr>
   <tr>
     <td class="tg-9wq8">14:15</td>
-    <td class="tg-9wq8" rowspan="5">Paper panel #2</td>
-    <td class="tg-9wq8" rowspan="5">Paper panel #2</td>
+    <td class="tg-9wq8" rowspan="5"><span style="font-weight:bold">Paper panel #2</span><br><span style="font-weight:bold">Designing CUIs</span></td>
+    <td class="tg-9wq8" rowspan="5"><span style="font-weight:bold">Paper panel #5</span><br><span style="font-weight:bold">Usability, UX, and Evaluation of CUIs</span></td>
   </tr>
   <tr>
     <td class="tg-9wq8">14:30</td>
@@ -167,7 +169,7 @@ menus:
   </tr>
   <tr>
     <td class="tg-9wq8">16:00</td>
-    <td class="tg-9wq8" rowspan="5">Paper panel #3</td>
+    <td class="tg-9wq8" rowspan="5"><span style="font-weight:bold">Paper panel #3</span><br><span style="font-weight:bold">In-Context and Context-Aware CUIs</span></td>
     <td class="tg-9wq8" rowspan="3">Town hall</td>
   </tr>
   <tr>

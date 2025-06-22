@@ -17,13 +17,7 @@ menus:
 ---
 
 
- Main track papers will be presented in the format of a panel, consisting of presentations of 7 minutes per paper, followed by a 25 mins panel-style discussion with presenting authors, led by a discussant (session chair). Audience will submit questions for consideration by the discussant. Each paper panel session will also include 1 to 2 pre-recorded paper presentations from authors who cannot attend in person.
-
-The provocations session will include 3-minute presentations for each provocation paper, followed by a 15-minute soapbox-style discussion with presenters.
-
-
-
-
+ 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -90,7 +84,7 @@ The provocations session will include 3-minute presentations for each provocatio
   </tr>
   <tr>
     <td class="tg-9wq8">10:30</td>
-    <td class="tg-9wq8" rowspan="10">Break</td>
+    <td class="tg-9wq8" rowspan="3">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
@@ -102,6 +96,7 @@ The provocations session will include 3-minute presentations for each provocatio
   </tr>
   <tr>
     <td class="tg-9wq8">11:15</td>
+    <td class="tg-9wq8" rowspan="7"></td>
     <td class="tg-9wq8" rowspan="5">Paper Panel #1</td>
     <td class="tg-9wq8" rowspan="5">Paper Panel #2</td>
   </tr>
@@ -163,7 +158,7 @@ The provocations session will include 3-minute presentations for each provocatio
   </tr>
   <tr>
     <td class="tg-9wq8">15:30</td>
-    <td class="tg-9wq8" rowspan="2">Break</td>
+    <td class="tg-9wq8" rowspan="3">Break</td>
     <td class="tg-9wq8" rowspan="2">Coffee break &amp; Posters</td>
     <td class="tg-9wq8" rowspan="2">Coffee break &amp; Posters</td>
   </tr>
@@ -172,12 +167,12 @@ The provocations session will include 3-minute presentations for each provocatio
   </tr>
   <tr>
     <td class="tg-9wq8">16:00</td>
-    <td class="tg-9wq8" rowspan="6"></td>
     <td class="tg-9wq8" rowspan="5">Paper panel #3</td>
     <td class="tg-9wq8" rowspan="3">Town hall</td>
   </tr>
   <tr>
     <td class="tg-9wq8">16:15</td>
+    <td class="tg-9wq8" rowspan="4">Grad Consortium</td>
   </tr>
   <tr>
     <td class="tg-9wq8">16:30</td>
@@ -191,6 +186,7 @@ The provocations session will include 3-minute presentations for each provocatio
   </tr>
   <tr>
     <td class="tg-9wq8">17:15</td>
+    <td class="tg-9wq8"></td>
     <td class="tg-9wq8" rowspan="2">Provocations</td>
     <td class="tg-c3ow" rowspan="2">Day ends</td>
   </tr>
@@ -213,3 +209,52 @@ The provocations session will include 3-minute presentations for each provocatio
   </tr>
 </tbody></table>
 
+<br />
+Main track papers will be presented in the format of a panel, consisting of presentations of 7 minutes per paper, followed by a 25 mins panel-style discussion with presenting authors, led by a discussant (session chair). Audience will submit questions for consideration by the discussant. Each paper panel session will also include 1 to 2 pre-recorded paper presentations from authors who cannot attend in person.
+
+The provocations session will include 3-minute presentations for each provocation paper, followed by a 15-minute soapbox-style discussion with presenters.
+
+## PAPER PANEL SCHEDULE
+
+### Paper panel #1: Trust, Human Behaviour, and CUIs
+* Towards Teams being Led by a Conversational Agent
+*	How Managers Perceive AI-Assisted Conversational Training for Workplace Communication
+*	Exploring Artists’ and Art Viewers’ Perspectives for Art Chatbots: Implications for a Design Framework
+*	When AI Joins the Negotiation Table: Evaluating AI as a Moderator
+*	Hearing Ambiguity: Exploring Beyond-Gender Impressions of Artificial Ambiguous Voices
+* Navigating the Fog: How University Students Recalibrate Sensemaking Practices to Address Plausible Falsehoods in LLM Outputs
+
+### Paper panel #2: Designing CUIs
+*	Design Activity Simulation: Opportunities and Challenges in Using Multiple Communicative AI Agents to Tackle Design Problems
+*	Transparent Conversational Agents: The Impact of Capability Communication on User Behavior and Mental Model Alignment 
+*	Towards Age-Inclusive Conversational interfaces: Understanding Requirements Across Age Groups
+*	Mitigating Response Delays in Free-Form Conversations with LLM-powered Intelligent Virtual Agents
+*	TacTalk: Personalizing Haptics Through Conversation
+*	User Preferences in Conversational AI for Healthcare: Insights from an Interview Study
+
+### Paper panel #3: In-Context and Context-Aware CUIs
+*	From Goals to Actions: Designing Context-aware LLM Chatbots for New Year's Resolutions
+*	WatchWithMe: LLM-Based Interactive Guided Watching of Review Videos
+*	NeuroChat: A Neuroadaptive AI Chatbot for Customizing Learning Experiences
+*	DesignMinds: Enhancing Video-Based Design Ideation with a Vision-Language Model and a Context-Injected Large Language Model
+*	Learn, Explore and Reflect by Chatting: Understanding the Value of an LLM-Based Voting Advice Application Chatbot
+*	Chat with the 'For You' Algorithm: An LLM-Enhanced Chatbot for Controlling Video Recommendation Flow
+*	ActionaBot: Structuring Metacognitive Conversations towards In-Situ Awareness in How-To Instruction Following
+
+### Paper panel #4: CUIs for Health and Wellbeing
+*	PlanFitting: Personalized Exercise Planning with Large Language Model-driven Conversational Agent
+*	 The Impact of a Chatbot's Ephemerality-Framing on Self-Disclosure Perceptions
+*	PITCH: Designing Agentic Conversational Support for Planning and Self-reflection
+*	Understanding the Multimodal Voice Assistant as an Informal and Social Care Support Tool in the UK
+*	SmartEats: Investigating the Effects of Customizable Conversational Agent in Dietary Recommendations
+*	Beyond Functionality: Co-Designing Voice User Interfaces for Older Adults' Well-being
+*	Linguistic Diversity and Mental Well-Being: Co-Designing Custom AI Chatbots with Multilingual Mothers
+
+### Paper panel #5: Usability, UX, and Evaluation of CUIs
+*	A Pragmatics-based Approach to Proactive Digital Assistants for Data Exploration
+*	Outcomes, Perceptions, and Interaction Strategies of Novice Programmers Studying with ChatGPT
+*	From Synthetic to Human: The Gap Between AI-Predicted and Actual Pro-Environmental Behavior Change After Chatbot Persuasion
+*	Writing with AI Lowers Psychological Ownership, but Longer Prompts Can Help
+*	Multimodal Silent Speech-based Text Entry with Word-initials Conditioned LLM
+*	User Preferences in Conversational AI for Healthcare: Insights from an Interview Study
+*	 Exploring LLMs for Automated Generation and Adaptation of Questionnaires

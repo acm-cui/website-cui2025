@@ -99,8 +99,8 @@ menus:
   <tr>
     <td class="tg-9wq8">11:15</td>
     <td class="tg-9wq8" rowspan="7">Workshops continue</td>
-    <td class="tg-9wq8" rowspan="5"><span style="font-weight:bold">Paper Panel #1</span><br><span style="font-weight:bold">Trust, Human Behaviour, and CUIs</span></td>
-    <td class="tg-9wq8" rowspan="5"><span style="font-weight:bold">Paper Panel #4</span><br><span style="font-weight:bold;font-style:italic">CUIs for Health and Wellbeing</span></td>
+    <td class="tg-9wq8" rowspan="5">Paper Panel #1<br>Trust, Human Behaviour, and CUIs</td>
+    <td class="tg-9wq8" rowspan="5">Paper Panel #4<br>CUIs for Health and Wellbeing</td>
   </tr>
   <tr>
     <td class="tg-9wq8">11:30</td>
@@ -143,8 +143,8 @@ menus:
   </tr>
   <tr>
     <td class="tg-9wq8">14:15</td>
-    <td class="tg-9wq8" rowspan="5"><span style="font-weight:bold">Paper panel #2</span><br><span style="font-weight:bold">Designing CUIs</span></td>
-    <td class="tg-9wq8" rowspan="5"><span style="font-weight:bold">Paper panel #5</span><br><span style="font-weight:bold">Usability, UX, and Evaluation of CUIs</span></td>
+    <td class="tg-9wq8" rowspan="5">Paper panel #2<br>Designing CUIs</td>
+    <td class="tg-9wq8" rowspan="5">Paper panel #5<br>Usability, UX, and Evaluation of CUIs</td>
   </tr>
   <tr>
     <td class="tg-9wq8">14:30</td>
@@ -169,7 +169,7 @@ menus:
   </tr>
   <tr>
     <td class="tg-9wq8">16:00</td>
-    <td class="tg-9wq8" rowspan="5"><span style="font-weight:bold">Paper panel #3</span><br><span style="font-weight:bold">In-Context and Context-Aware CUIs</span></td>
+    <td class="tg-9wq8" rowspan="5">Paper panel #3><br>In-Context and Context-Aware CUIs</td>
     <td class="tg-9wq8" rowspan="3">Town hall</td>
   </tr>
   <tr>

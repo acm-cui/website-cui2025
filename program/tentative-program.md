@@ -71,11 +71,11 @@ menus:
   </tr>
   <tr>
     <td class="tg-9wq8">9:30</td>
-    <td class="tg-9wq8" rowspan="4">Keynote</td>
+    <td class="tg-9wq8" rowspan="4">Keynote: Maurita Harris</td>
   </tr>
   <tr>
     <td class="tg-9wq8">9:45</td>
-    <td class="tg-9wq8" rowspan="4">Keynote</td>
+    <td class="tg-9wq8" rowspan="4">Keynote: Matt Ratto</td>
   </tr>
   <tr>
     <td class="tg-9wq8">10:00</td>
@@ -219,12 +219,14 @@ The provocations session will include 3-minute presentations for each provocatio
 ## PAPER PANEL SCHEDULE
 
 ### Paper panel #1: Trust, Human Behaviour, and CUIs
-* Towards Teams being Led by a Conversational Agent
+*	Hearing Ambiguity: Exploring Beyond-Gender Impressions of Artificial Ambiguous Voices
+*	Navigating the Fog: How University Students Recalibrate Sensemaking Practices to Address Plausible Falsehoods in LLM Outputs
+*	Towards Teams being Led by a Conversational Agent
 *	How Managers Perceive AI-Assisted Conversational Training for Workplace Communication
 *	Exploring Artists’ and Art Viewers’ Perspectives for Art Chatbots: Implications for a Design Framework
+*	User Preferences in Conversational AI for Healthcare: Insights from an Interview Study
 *	When AI Joins the Negotiation Table: Evaluating AI as a Moderator
-*	Hearing Ambiguity: Exploring Beyond-Gender Impressions of Artificial Ambiguous Voices
-* Navigating the Fog: How University Students Recalibrate Sensemaking Practices to Address Plausible Falsehoods in LLM Outputs
+
 
 ### Paper panel #2: Designing CUIs
 *	Design Activity Simulation: Opportunities and Challenges in Using Multiple Communicative AI Agents to Tackle Design Problems
@@ -232,31 +234,85 @@ The provocations session will include 3-minute presentations for each provocatio
 *	Towards Age-Inclusive Conversational interfaces: Understanding Requirements Across Age Groups
 *	Mitigating Response Delays in Free-Form Conversations with LLM-powered Intelligent Virtual Agents
 *	TacTalk: Personalizing Haptics Through Conversation
-*	User Preferences in Conversational AI for Healthcare: Insights from an Interview Study
+*	The Art of Talking Machines: A Comprehensive Literature Review of Conversational User Interfaces
+*	Linguistic Diversity and Mental Well-Being: Co-Designing Custom AI Chatbots with Multilingual Mothers
 
 ### Paper panel #3: In-Context and Context-Aware CUIs
+*	Learn, Explore and Reflect by Chatting: Understanding the Value of an LLM-Based Voting Advice Application Chatbot
+*	Chat with the 'For You' Algorithm: An LLM-Enhanced Chatbot for Controlling Video Recommendation Flow
 *	From Goals to Actions: Designing Context-aware LLM Chatbots for New Year's Resolutions
 *	WatchWithMe: LLM-Based Interactive Guided Watching of Review Videos
 *	NeuroChat: A Neuroadaptive AI Chatbot for Customizing Learning Experiences
 *	DesignMinds: Enhancing Video-Based Design Ideation with a Vision-Language Model and a Context-Injected Large Language Model
-*	Learn, Explore and Reflect by Chatting: Understanding the Value of an LLM-Based Voting Advice Application Chatbot
-*	Chat with the 'For You' Algorithm: An LLM-Enhanced Chatbot for Controlling Video Recommendation Flow
 *	ActionaBot: Structuring Metacognitive Conversations towards In-Situ Awareness in How-To Instruction Following
 
+
 ### Paper panel #4: CUIs for Health and Wellbeing
-*	PlanFitting: Personalized Exercise Planning with Large Language Model-driven Conversational Agent
-*	 The Impact of a Chatbot's Ephemerality-Framing on Self-Disclosure Perceptions
-*	PITCH: Designing Agentic Conversational Support for Planning and Self-reflection
-*	Understanding the Multimodal Voice Assistant as an Informal and Social Care Support Tool in the UK
 *	SmartEats: Investigating the Effects of Customizable Conversational Agent in Dietary Recommendations
 *	Beyond Functionality: Co-Designing Voice User Interfaces for Older Adults' Well-being
-*	Linguistic Diversity and Mental Well-Being: Co-Designing Custom AI Chatbots with Multilingual Mothers
+*	Understanding the Challenges and Design Opportunities of Using Voice Assistants to Support Postpartum Mothers in Brazil
+*	PlanFitting: Personalized Exercise Planning with Large Language Model-driven Conversational Agent
+*	Visual-Conversational Interface for Evidence-Based Explanation of Diabetes Risk Prediction
+*	PITCH: Designing Agentic Conversational Support for Planning and Self-reflection
+*	Understanding the Multimodal Voice Assistant as an Informal and Social Care Support Tool in the UK
 
 ### Paper panel #5: Usability, UX, and Evaluation of CUIs
+*	 Multimodal Silent Speech-based Text Entry with Word-initials Conditioned LLM
+*	 The Impact of a Chatbot's Ephemerality-Framing on Self-Disclosure Perceptions
+*	 Exploring LLMs for Automated Generation and Adaptation of Questionnaires
 *	A Pragmatics-based Approach to Proactive Digital Assistants for Data Exploration
 *	Outcomes, Perceptions, and Interaction Strategies of Novice Programmers Studying with ChatGPT
 *	From Synthetic to Human: The Gap Between AI-Predicted and Actual Pro-Environmental Behavior Change After Chatbot Persuasion
 *	Writing with AI Lowers Psychological Ownership, but Longer Prompts Can Help
-*	Multimodal Silent Speech-based Text Entry with Word-initials Conditioned LLM
-*	User Preferences in Conversational AI for Healthcare: Insights from an Interview Study
-*	 Exploring LLMs for Automated Generation and Adaptation of Questionnaires
+
+## TUTORIAL SCHEDULE
+
+### Tutorial #1
+Building Conversational User Interfaces: An Architectural Exploration with Meta Glasses for Developers and Researchers
+
+### Tutorial #2
+Designing conversational agent(ic) systems
+
+## PROVOCATIONS SCHEDULE
+* Beyond the Illusion: LLMs and the Case for Pragmatic Cues in Conversation
+* The Ethics of Psychological Manipulation in Adversarial Conversational AI: Confronting the Recognition-Behaviour Gap
+* Fake Friends and Sponsored Ads: The Risks of Advertising in Conversational Search
+* Crossing the Line? The Paradox of Human-Like Design in Conversational Agents 
+* Aye, Robot: What Happens When Robots Speak Like Real People?
+
+
+## DEMOS
+* DeTAILS: Deep Thematic Analysis with Iterative LLM Support
+* Eternagram: Inspiring Climate Action Through LLM-based Conversational Exploration of a Post-Devastation Climate Future
+* Designing a Simulated Patient System for Medical Education
+* Values in the Loop: Designing Interactive Optimization with Conversational Feedback
+
+## POSTERS
+* Exploring Multi-LLM Collaboration to Power Conversational Recommender System: A Case Study of Dietary Recommendation
+* Multi-Tool Analysis of User Interface & Accessibility in Deployed Web-Based Chatbots
+* “Hey Google, How Do I File My Taxes?”: Evaluating Conversational Interfaces for Newcomers Navigating Government Services
+* Motivations, Means, and Meanings: Understanding AI Tool Usage Among Students in the Global South
+* Integrating Ethical AI Tools into Educational Practices for Enhancing Academic Integrity
+* Elmo: An Embodied Conversational Assistant For Community Repair Cafés
+* Fitting the Message to the Moment: Designing Calendar-Aware Stress Messaging with Large Language Models
+* Lowering the Barrier: Conversational Interfaces as a Novice-Friendly Path to Data Visualisation
+* Towards Enhancing Industrial Training Through Conversational AI
+* How Large Language Models Classify and Semantically Explain Facial Expressions from Valence-Arousal Values
+* Un-trusting the Chat: Designing for Calibrated Trust in Retrieval-Augmented Conversations
+* AInsight: Augmenting Expert Decision-Making with On-the-Fly Insights Grounded in Historical Data
+* Impact Of Disfluent Speech Agent On Partner Models And Perspectve Taking
+* Designing Dialogic Disclaimers: Principles for Ethical Conversational Design in LLM Interfaces
+* Leveraging Generative and Rule-Based Models for Persuasive STI Education: A Multi-Chatbot Mobile Application
+* Towards Voice-enabled Postnatal Development Tracking: Opportunities for Conversational Voice Assistants to Aid Child Development Monitoring
+* Motion-mimicking Avatar Communication: A Pilot Study on Dyadic Creativity
+* PaperPal: An AI-Powered Platform for Collaborative Reading and Discussion
+* CitePeek: Contextual Citation Exploration Within Research Papers
+* ResumeGenAI: Supporting Job Seekers with LLM-Driven Resume Feedback
+* Exploring the role of metacognitive abilities and trust in interaction with Generative AI
+* Remembering Things Makes Chatbots Sound Smarter, but Less Trustworthy - A Pilot Study
+* Feedstack: Layering Structured Representations Over Unstructured Feedback to Scaffold Human-AI Conversation
+* Designing Child-Safe Conversational AI: Three Dilemmas for Responsible Design
+* Beyond Face Value: Visual and Auditory Signals in Human and Machine Trust Judgments
+* Voice Profiles vs. Text Transcripts, Do Data Modality Layers in Voice Recordings Matter to Alexa Users? The Role of Modality in Voice Data Privacy
+* Augmentation by Segmenting Audio in Speech Emotion Recognition
+

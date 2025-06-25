@@ -13,7 +13,7 @@ menus:
   program:
     text: Keynotes
     title: The CUI !!conference.year!! conference keynotes
-    weight: 1
+    weight: 2
     sep_before: true
 ---
 

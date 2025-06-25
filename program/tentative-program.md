@@ -169,7 +169,7 @@ menus:
   </tr>
   <tr>
     <td class="tg-9wq8">16:00</td>
-    <td class="tg-9wq8" rowspan="5">Paper panel #3><br>In-Context and Context-Aware CUIs</td>
+    <td class="tg-9wq8" rowspan="5">Paper panel #3<br>In-Context and Context-Aware CUIs</td>
     <td class="tg-9wq8" rowspan="3">Town hall</td>
   </tr>
   <tr>

@@ -167,7 +167,7 @@ menu:
 <div class="col-xl-4 col-lg-5 col-md-6 col-12 mt-md-0 mt-4 mb-md-0 mb-5 px-md-3 px-5 d-flex align-content-start justify-content-center flex-wrap">
 
 <h2>Connect with CUI 2025</h2>
- <p>Tag us with #CUI2025 to help us find you!</p>
+ <p>Tag us with <b>#CUI2025</b> to help us find you!</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -181,7 +181,8 @@ menu:
   <tr>
     <td class="tg-0pky"><img src="{{ "/assets/img/announcements.jpg" | relative_url }}" width="30" height="30"></td>
     <td class="tg-0pky"><a href="https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CUI-ANNOUNCEMENTS&X=DA00202F15E5DE0C2A" target="_blank" rel="noopener noreferrer"> CUI Announcements  </a></td>
-  </tr>  <tr>
+  </tr>  
+  <tr>
     <td class="tg-0pky"><img src="{{ "/assets/img/linkedin-logo.png" | relative_url }}" width="30" height="30"></td>
     <td class="tg-0pky"><a href="https://www.linkedin.com/company/acm-cui/" target="_blank" rel="noopener noreferrer">ACM CUI on LinkedIn </a></td>
   </tr>
@@ -205,8 +206,7 @@ menu:
       <td class="tg-0pky"><img src="{{ "/assets/img/link-discord.png" | relative_url }}" width="30" height="30"></td>
     <td class="tg-0pky"><a href="https://discord.com/invite/UeSDC2MyhH" target="_blank" rel="noopener noreferrer"> CUI Discord server </a></td>
   </tr>
-  </tr>
-   <tr>
+  <tr>
       <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -214,14 +214,12 @@ menu:
       <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
-      <tr>
+  <tr>
       <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
 </table>
 
-<p>		&nbsp; 		&nbsp; 		&nbsp; </p> 
-<p>		&nbsp; 		&nbsp; 		&nbsp; </p> 
 		
 
 <a href="https://acm.org/" title="ACM CUI {{ site.conference.year }} is an ACM In-Cooperation conference" class="flex-grow-1">

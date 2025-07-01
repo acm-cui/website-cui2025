@@ -46,13 +46,15 @@ For information about the public transport options for getting to the conference
 ## Venue Accessibility
 There are elevators and wheelchair-accessible washrooms on every floor. Please see additional venue-specific accessibility information below.
 
-[**Engineering 5 (E5) | Campus Accessibility | University of Waterloo**](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/engineering-5-e5)
+[Engineering 5 (E5)](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/engineering-5-e5)
 
 The main entrance facing Davis Centre (DC) is ramped and accesses the second floor.
 
-[**Federation Hall (FED) | Campus Accessibility | University of Waterloo**](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/federation-hall-fed)
+[Federation Hall (FED) ](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/federation-hall-fed)
 
 Two accessible entrances are the main entrance facing Ring Road (automated door and ramp).
+
+**Note:** E5 and E7 are the same building; there are two wings with a common atrium (E5 is the west wing and E7 is the east wing). [Here is the building map link](https://uwaterloo.ca/engineering/e7-map-link).
 
 ## I have another question.
 

@@ -26,7 +26,7 @@ menu:
         </p>
 <h2></h2>
 
-<h2>Connect with CUI 2025</h2>
+<!-- <h2>Connect with CUI 2025</h2>
 	 <p>Tag us with #CUI2025 to help us find you!</p>
 
 <style type="text/css">
@@ -65,7 +65,7 @@ menu:
       <td class="tg-0pky"><img src="{{ "/assets/img/link-discord.png" | relative_url }}" width="30" height="30"></td>
     <td class="tg-0pky"><a href="https://discord.com/invite/UeSDC2MyhH" target="_blank" rel="noopener noreferrer"> CUI Discord server </a></td>
   </tr>
-</table>
+</table> -->
 
 
 <!-- <div>
@@ -107,17 +107,17 @@ menu:
 		<li>Large Language Models (LLMs)</li>
     </ul>
 
-	<h2></h2>
+<h2></h2>
 	
-		<p>
+<p>
 			We are planning an in-person event for {{ site.conference.year }}. <br>We hope you can join us!
 			<br><br>
    			<!--<a href="https://forms.gle/MnYTTtLcHzNP8L4s5"><strong>Volunteer now to join the organizing committee (OC)! </strong>  </a><br><br>-->
       			Edith Law, Jaisie Sin, and Jim Wallace
-			ACM CUI {{ site.conference.year }} Organising Committee
-		</p>
+			ACM CUI {{ site.conference.year }} Organising Committee.
+</p>
 
-		<!--<hr class="mt-4">
+<!--<hr class="mt-4">
 		
 		<p class="pt-2">
 		<em class="small">All deadlines are at <a href="https://time.is/Anywhere_on_Earth" title="The current time in 'Anywhere on Earth'">23:59 Anywhere on Earth</a></em>
@@ -162,10 +162,69 @@ menu:
 			</li>
 		</ul>
 		-->
-	</div>
+</div>
 
-	<div class="col-xl-4 col-lg-5 col-md-6 col-12 mt-md-0 mt-4 mb-md-0 mb-5 px-md-3 px-5 d-flex align-content-start justify-content-center flex-wrap">
-		<a href="https://acm.org/" title="ACM CUI {{ site.conference.year }} is an ACM In-Cooperation conference" class="flex-grow-1">
+<div class="col-xl-4 col-lg-5 col-md-6 col-12 mt-md-0 mt-4 mb-md-0 mb-5 px-md-3 px-5 d-flex align-content-start justify-content-center flex-wrap">
+
+<h2>Connect with CUI 2025</h2>
+ <p>Tag us with #CUI2025 to help us find you!</p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:center}
+</style>
+
+<table class="tg">
+  <tr>
+    <td class="tg-0pky"><img src="{{ "/assets/img/announcements.jpg" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CUI-ANNOUNCEMENTS&X=DA00202F15E5DE0C2A" target="_blank" rel="noopener noreferrer"> CUI Announcements  </a></td>
+  </tr>  <tr>
+    <td class="tg-0pky"><img src="{{ "/assets/img/linkedin-logo.png" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/company/acm-cui/" target="_blank" rel="noopener noreferrer">ACM CUI on LinkedIn </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><img src="{{ "/assets/img/bluesky.svg" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://bsky.app/profile/cui.acm.org" target="_blank" rel="noopener noreferrer">@cui.acm.org on Bluesky </a></td>
+  </tr>
+  <tr>
+      <td class="tg-0pky"><img src="{{ "/assets/img/threads.png" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://www.threads.com/@acm_cui" target="_blank" rel="noopener noreferrer">@acm_cui@threads.net </a></td>
+  </tr>
+  <tr>
+      <td class="tg-0pky"><img src="{{ "/assets/img/link-mastodon.png" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://hci.social/@cui" target="_blank" rel="noopener noreferrer"> @cui@hci.social</a></td>
+  </tr>
+  <tr>
+      <td class="tg-0pky"><img src="{{ "/assets/img/x_logo.png" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://x.com/ACM_CUI" target="_blank" rel="noopener noreferrer"> @ACM_CUI on X</a></td>
+  </tr>
+   <tr>
+      <td class="tg-0pky"><img src="{{ "/assets/img/link-discord.png" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://discord.com/invite/UeSDC2MyhH" target="_blank" rel="noopener noreferrer"> CUI Discord server </a></td>
+  </tr>
+  </tr>
+   <tr>
+      <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+    <tr>
+      <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+      <tr>
+      <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</table>
+
+<p>		&nbsp; 		&nbsp; 		&nbsp; </p> 
+<p>		&nbsp; 		&nbsp; 		&nbsp; </p> 
+		
+
+<a href="https://acm.org/" title="ACM CUI {{ site.conference.year }} is an ACM In-Cooperation conference" class="flex-grow-1">
 			<img src="{{ "/assets/img/banner-logo-acm.png" | relative_url }}" alt="ACM In-Cooperation logo" title="ACM CUI {{ site.conference.year }} is an ACM In-Cooperation conference" class="d-dk-none homepage-banner">
 			<img src="{{ "/assets/img/logo-acm-dk.png" | relative_url }}" alt="ACM In-Cooperation logo" title="ACM CUI {{ site.conference.year }} is an ACM In-Cooperation conference" class="d-lt-none homepage-banner">
 		</a>
@@ -177,7 +236,7 @@ menu:
 			<img src="{{ "/assets/img/logo-cui.png" | relative_url }}" alt="The ACM CUI Community" title="ACM CUI {{ site.conference.year }} is part of the ACM CUI Community" class="mt-md-3 mt-5 d-dk-none homepage-sponsor">
 			<img src="{{ "/assets/img/logo-cui-dk.png" | relative_url }}" alt="The ACM CUI Community" title="ACM CUI {{ site.conference.year }} is part of the ACM CUI Community" class="mt-md-3 mt-5 d-lt-none homepage-sponsor">
 		</a>
-	
+
 
 		<!-- comment sponsors
 		<h2 class="mt-5 text-center flex-grow-1">Sponsors</h2> -->
@@ -225,5 +284,6 @@ Interdisciplinary Centre for Security, Reliability and Trust" class="mt-md-3 mt-
 		-->
 		
 		
-	</div>
+</div>
+
 </div>

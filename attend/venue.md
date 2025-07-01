@@ -15,8 +15,11 @@ menus:
 
 All CUI ’25 activities will take place at the **University of Waterloo**, located in **Waterloo, Ontario, Canada**.
 
+**Campus map:** [https://uwaterloo.ca/map/](https://uwaterloo.ca/map/)
 
+**Parking information:** [https://uwaterloo.ca/sustainable-transportation/about/our-parking-lots](https://uwaterloo.ca/sustainable-transportation/about/our-parking-lots)
 
+*Note:The closest parking lots that are available for visitor pay-per-use are Lots B and Q.*
 
 
 <!-- **Days 2 and 3 (9th and 10th July 2025):** 

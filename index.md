@@ -21,12 +21,64 @@ menu:
         <p>
             <strong>ACM CUI {{ site.conference.year }}</strong> will be held in <strong>{{ site.conference.location }}</strong>, from <strong>{{ site.conference.dates }}</strong>. 
         </p>
-
         <p>
             The theme of this year's conference is “Weaving Conversations Through Tradition and Innovation”. This theme is a nod to the location of the conference, a place steeped in traditions that cross centuries, from Indigenous to Mennonite, but also a place that is nowadays associated with innovation (most famously the birthplace of the Blackberry and the revolution it has brought to connecting people through mobile communications). This arch connecting traditions to innovations is paralleled by the story of our own conference – while we are a new and innovative conference, our roots reach several decades into the past (and to the early days of voice processing, natural language interaction, and dialogue systems). We aim to weave traditions with innovations, much like the Mennonite communities with whom we’re sharing the area weave the quilts they are renowned for.
         </p>
-	 <h2></h2>
-    		<h2>Tracks and Deadlines:</h2>
+<h2></h2>
+
+<h2>Connect with CUI 2025</h2>
+	 <p>Tag us with #CUI2025 to help us find you!</p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:center}
+</style>
+
+<table class="tg">
+  <tr>
+    <td class="tg-0pky"><img src="{{ "/assets/img/announcements.jpg" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CUI-ANNOUNCEMENTS&X=DA00202F15E5DE0C2A" target="_blank" rel="noopener noreferrer"> CUI Announcements  </a></td>
+  </tr>  <tr>
+    <td class="tg-0pky"><img src="{{ "/assets/img/linkedin-logo.png" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/company/acm-cui/" target="_blank" rel="noopener noreferrer">ACM CUI on LinkedIn </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><img src="{{ "/assets/img/bluesky.svg" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://bsky.app/profile/cui.acm.org" target="_blank" rel="noopener noreferrer">@cui.acm.org on Bluesky </a></td>
+  </tr>
+  <tr>
+      <td class="tg-0pky"><img src="{{ "/assets/img/threads.png" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://www.threads.com/@acm_cui" target="_blank" rel="noopener noreferrer">@acm_cui@threads.net </a></td>
+  </tr>
+  <tr>
+      <td class="tg-0pky"><img src="{{ "/assets/img/link-mastodon.png" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://hci.social/@cui" target="_blank" rel="noopener noreferrer"> @cui@hci.social</a></td>
+  </tr>
+  <tr>
+      <td class="tg-0pky"><img src="{{ "/assets/img/x_logo.png" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://x.com/ACM_CUI" target="_blank" rel="noopener noreferrer"> @ACM_CUI on X</a></td>
+  </tr>
+   <tr>
+      <td class="tg-0pky"><img src="{{ "/assets/img/link-discord.png" | relative_url }}" width="30" height="30"></td>
+    <td class="tg-0pky"><a href="https://discord.com/invite/UeSDC2MyhH" target="_blank" rel="noopener noreferrer"> CUI Discord server </a></td>
+  </tr>
+</table>
+
+
+<!-- <div>
+	 <a href="https://www.linkedin.com/company/104899554/admin/dashboard/" title=" ACM CUI on LinkedIn" class="d-inline-block text-center me-xl-2 me-lg-1 me-3" target="_blank">
+		<picture>
+			<source srcset="{{ "/assets/img/link-twitter-dk.png" | relative_url }}" media="(prefers-color-scheme: dark)"/>
+						<img src="{{ "/assets/img/link-twitter.png" | relative_url }}" alt="Twitter logo" title="@ACM_CUI on Twitter">
+					</picture>
+				</a> -->
+
+
+
+<h2>Tracks and Deadlines:</h2>
   		<ul>
     		<li class="pt-3">Papers - 13th February 2025</li>
        		<li>Provocations - <strike><em>10th April 2025</em></strike> <b> 17th April 2025 </b> </li>

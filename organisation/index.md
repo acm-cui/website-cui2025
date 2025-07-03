@@ -10,7 +10,7 @@ menu:
   main:
     text: Organizers
     title: The teams behind CUI !!conference.year!!
-    weight: 3
+    weight: 6
     identifier: organisers
 ---
 

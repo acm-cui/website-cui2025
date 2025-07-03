@@ -10,7 +10,7 @@ menu:
   main:
     text: Attend
     title: Information for ACM CUI !!conference.year!! attendees
-    weight: 4
+    weight: 3
     identifier: attend
 ---
 

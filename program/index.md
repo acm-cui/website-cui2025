@@ -16,7 +16,7 @@ menus:
   main:
     text: Program
     title: The online programme for the !!conference.year!! Conversational User Interfaces conference
-    weight: 5
+    weight: 4
     identifier: program
 ---
 

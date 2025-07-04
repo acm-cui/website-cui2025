@@ -21,7 +21,7 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
 
 *Note:The closest parking lots that are available for visitor pay-per-use are Lots B and Q.*
 
-**Registration desk, demos, posters, coffee and lunch breaks will be hosted in the Event Space, on the 2nd floor of Engineering E7 (E7)**
+**Registration desk, demos, posters, coffee and lunch breaks will be hosted in the Event Space, on the 2nd floor of Engineering 7 (E7)**
 
 <!-- **Days 2 and 3 (9th and 10th July 2025):** 
 

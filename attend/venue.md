@@ -21,18 +21,57 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
 
 *Note:The closest parking lots that are available for visitor pay-per-use are Lots B and Q.*
 
-**Registration desk, demos, posters, coffee and lunch breaks will be hosted in the Event Space, on the 2nd floor of Engineering 7 (E7)**
+## Building map and room finding
+<ul>
+  <li>
+    Opening/closing sessions, keynotes, papers, provocations, tutorials<br>
+    • <b>E7–7303/7363</b> (Faculty Hall)
+  </li>
+  <li>
+    Registration, posters, demos, breaks, welcome reception<br>
+    • <b>Event Space</b>, 2nd Floor, Engineering 7 (E7)
+  </li>
+  <li>
+    Graduate Consortium<br>
+    • <b>E5–6003/6004</b>
+  </li>
+  <li>
+    Workshops<br>
+    • <b>E7–2357</b> (“Age-Inclusive CUIs”)<br>
+    • <b>E5–6008</b> (“Personas Evolved”)<br>
+    • <b>E5–6003/6004</b> (“ToMinHAI”)<br>
+    • <b>E5–6127</b> (“Bias and Fairness” & “Conversational Health” – merged)
+  </li>
+</ul>
 
-<!-- **Days 2 and 3 (9th and 10th July 2025):** 
+<div class="row">
 
-The **main conference program** will take place at **Federation Hall**, a dedicated conference venue on campus within walking distance from the DC building and UW Station. -->
+<div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+        <img src="{{ "/assets/img/E7-secondFloor.png" | relative_url }}" alt="Floor map of the 2nd floor of the Engineering 7 building" title="2nd floor of the Engineering 7 Building" class="rounded shadow" style="max-width: 100%">
+    </div>
 
-<!-- For directions and real-time transit suggestions, use [Google Maps](https://maps.google.com/) with public transit enabled, or visit [grt.ca.](https://www.grt.ca/en/index.aspx) All venues are fully accessible. -->
+ <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+        <img src="{{ "/assets/img/E7-7th-Floor.png" | relative_url }}" alt="Floor map of the 7th floor of the Engineering 7 building" title="7th floor of the Engineering 7 Building" class="rounded shadow" style="max-width: 100%">
+    </div>
+    
+   </div>
+   <div class="row">
 
+<div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+        <img src="{{ "/assets/img/E5- 6th-floor.png" | relative_url }}" alt="Floor map of the 6th floor of the Engineering 5 building" title="6th floor of the Engineering 5 building" class="rounded shadow" style="max-width: 100%">
+    </div>
+
+ <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+        <img src="{{ "/assets/img/E5-E7.png" | relative_url }}" alt="Mao of Engineering 5 and Enginieering 7 Buildings" title="Map of Engineering 5 and Engioneering 6 Buildings" class="rounded shadow" style="max-width: 100%">
+    </div>
+    
+   </div>
+   <br/>
+   
 ## Day 1 (8th July 2025) – Engineering 5 (E5)
 <div class="row">
 
-    <div class="col-lg-6 col-12">
+<div class="col-lg-6 col-12">
         <p>
         The <b>Workshops and Doctoral Consortium</b> will be held in <b>Engineering 5 (E5)</b>, one of the largest academic buildings on campus, home to the Faculty of Engineering. E5 is centrally located and easily accessible via <b>ION light rail (UW Station)</b> and <b>GRT buses</b>.
 
@@ -41,9 +80,9 @@ The **main conference program** will take place at **Federation Hall**, a dedica
         You can find directions to E5/E7 on <a href="https://www.google.com/maps/place/Engineering+5/@43.4727618,-80.5427135,17z/data=!3m1!4b1!4m6!3m5!1s0x882bf4011b91737d:0x10123397b6e1bf24!8m2!3d43.4727579!4d-80.5401386!16s%2Fg%2F11byxdqp4f?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D" title= "Google Maps" target="_blank">Google Maps</a>
 
         </p>
-    </div>
+</div>
 
-    <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+ <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
         <img src="{{ "/assets/img/E5.jpg" | relative_url }}" alt="An image of Engineering 5 building" title="Engineering 5 Building" class="rounded shadow" style="max-width: 100%">
     </div>
     
@@ -66,19 +105,13 @@ The **main conference program** will take place at **Federation Hall**, a dedica
     <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
         <img src="{{ "/assets/img/E7.jpg" | relative_url }}" alt="An image of the Engineering 7 Building" title="Engineering 7 Building" class="rounded shadow" style="max-width: 100%">
     </div>
-     <div class="col-12 mt-1 text-center">
-       <p> You can find directions to E5/E7 on <a href="https://www.google.com/maps/place/Engineering+5/@43.4727618,-80.5427135,17z/data=!3m1!4b1!4m6!3m5!1s0x882bf4011b91737d:0x10123397b6e1bf24!8m2!3d43.4727579!4d-80.5401386!16s%2Fg%2F11byxdqp4f?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D" title= "Google Maps" target="_blank">Google Maps</a>
+     <div class="col-12 mt-1">
+       <p> <b>You can find directions to E5/E7 on <a href="https://www.google.com/maps/place/Engineering+5/@43.4727618,-80.5427135,17z/data=!3m1!4b1!4m6!3m5!1s0x882bf4011b91737d:0x10123397b6e1bf24!8m2!3d43.4727579!4d-80.5401386!16s%2Fg%2F11byxdqp4f?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D" title= "Google Maps" target="_blank">Google Maps</a></b>
         </p>
     </div>
 
   </div>
 
-<div class="row">
-    <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-        <img src="{{ "/assets/img/E7Map.jpg" | relative_url }}" alt="A map of the Kirchberg Campus" title="Map of the Engineering 5 and 7 Buildings" class="rounded shadow" style="max-width: 20%; transition: transform 0.3s ease; position: relative; z-index: 1;" onmouseover="this.style.transform='scale(3.0)';" onmouseout="this.style.transform='scale(1)';">
-    </div>
-    
- </div>
  
 ## Conference Banquet  (9th July 2025) – Federation Hall
 

@@ -15,7 +15,7 @@ menus:
 
 
 ---
-
+<!--
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -208,6 +208,252 @@ menus:
   <tr>
     <td class="tg-c3ow">18:30</td>
     <td class="tg-c3ow">Committee &amp; SV dinner</td>
+  </tr>
+</tbody></table> 
+-->
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-7uxt{background-color:#c9d6e2;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0hd4{background-color:#d8d8d8;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ew2y{background-color:#d3e2c1;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1bv7{background-color:#f5dca4;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-h8mw{background-color:#e9b4b8;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-xhtt{background-color:#d0c8d6;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 907px"><colgroup>
+<col style="width: 75px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+</colgroup>
+<thead>
+  <tr>
+    <td class="tg-oe15"><span style="font-weight:bold">Room:</span></td>
+    <td class="tg-ew2y">E7 Faculty Hall</td>
+    <td class="tg-1bv7">E7 Event Space</td>
+    <td class="tg-0hd4">E5-6003/6004</td>
+    <td class="tg-h8mw">E7-2357</td>
+    <td class="tg-7uxt">E5-6008</td>
+    <td class="tg-xhtt">E5-6127</td>
+  </tr></thead>
+</table>
+<br />
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9uqy{background-color:#d0c8d6;border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-cu75{background-color:#d8d8d8;border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-aux0{background-color:#f5dca4;border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-vprz{background-color:#e9b4b8;border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-6bso{background-color:#c9d6e2;border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-9lvx{background-color:#d3e2c1;border-color:inherit;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 743px"><colgroup>
+<col style="width: 75px">
+<col style="width: 75px">
+<col style="width: 75px">
+<col style="width: 75px">
+<col style="width: 75px">
+<col style="width: 300px">
+<col style="width: 300px">
+
+
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-7btt" colspan="4">Tuesday</th>
+    <th class="tg-7btt">Wednesday</th>
+    <th class="tg-7btt">Thursday</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">7:30</td>
+    <td class="tg-9wq8" colspan="4"></td>
+    <td class="tg-9wq8"></td>
+    <td class="tg-9wq8">Visit to St Jacob Market</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">8:00</td>
+    <td class="tg-aux0" colspan="4" rowspan="3">Registration open</td>
+    <td class="tg-aux0" rowspan="3">Registration open</td>
+    <td class="tg-9wq8" rowspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">8:15</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">8:30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9:00</td>
+    <td class="tg-vprz" rowspan="6">WS#1</td>
+    <td class="tg-6bso" rowspan="6">WS#2</td>
+    <td class="tg-cu75" rowspan="6">WS#3</td>
+    <td class="tg-9uqy" rowspan="6">WS#4</td>
+    <td class="tg-aux0" rowspan="2">Welcome</td>
+    <td class="tg-9wq8" rowspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9:15</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9:30</td>
+    <td class="tg-9lvx" rowspan="4">Keynote: Maurita Harris</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9:45</td>
+    <td class="tg-9lvx" rowspan="4">Keynote: Matt Ratto</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:15</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:30</td>
+    <td class="tg-aux0" colspan="4" rowspan="3">Break<br>   <br>   </td>
+    <td class="tg-aux0">Smudging</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:45</td>
+    <td class="tg-aux0" rowspan="2">Coffee break &amp; Posters</td>
+    <td class="tg-aux0" rowspan="2">Coffee break &amp; Posters</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:15</td>
+    <td class="tg-vprz" rowspan="7">WS1 cont.</td>
+    <td class="tg-6bso" rowspan="7">WS2 Cont.</td>
+    <td class="tg-cu75" rowspan="7">WS3 Cont</td>
+    <td class="tg-9uqy" rowspan="7">WS4 Cont.</td>
+    <td class="tg-9lvx" rowspan="5">Paper Panel #1<br>Trust, Human Behaviour, and CUIs</td>
+    <td class="tg-9lvx" rowspan="5">Paper Panel #4<br>CUIs for Health and Wellbeing</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11:45</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:15</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:30</td>
+    <td class="tg-aux0" rowspan="3">Lunch (provided)</td>
+    <td class="tg-aux0" rowspan="3">Lunch (provided)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:45</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">13:00</td>
+    <td class="tg-9wq8" colspan="4" rowspan="4">Lunch (on your own)<br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">13:15</td>
+    <td class="tg-9lvx" rowspan="4">Tutorials</td>
+    <td class="tg-9lvx" rowspan="4">Tutorials</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">13:30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">13:45</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:00</td>
+    <td class="tg-cu75" colspan="4" rowspan="6">Grad Consortium<br>   <br>   <br>   <br>   <br>   </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:15</td>
+    <td class="tg-9lvx" rowspan="5">Paper panel #2<br>Designing CUIs</td>
+    <td class="tg-9lvx" rowspan="5">Paper panel #5<br>Usability, UX, and Evaluation of CUIs</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">14:45</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:15</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:30</td>
+    <td class="tg-aux0" colspan="4" rowspan="3">Break<br>   <br>   </td>
+    <td class="tg-aux0" rowspan="2">Coffee break &amp; Posters</td>
+    <td class="tg-aux0" rowspan="2">Coffee break &amp; Posters</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15:45</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">16:00</td>
+    <td class="tg-9lvx" rowspan="5">Paper panel #3<br>In-Context and Context-Aware CUIs</td>
+    <td class="tg-9lvx" rowspan="3">Town hall</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">16:15</td>
+    <td class="tg-cu75" colspan="4" rowspan="4">Grad Consortium<br>   <br>   <br>   </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">16:30</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">16:45</td>
+    <td class="tg-9lvx" rowspan="2">Closing &amp; Handover</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">17:00</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">17:15</td>
+    <td class="tg-9wq8" colspan="4"></td>
+    <td class="tg-9lvx" rowspan="2">Provocations</td>
+    <td class="tg-9wq8">Day ends</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">17:30</td>
+    <td class="tg-aux0" colspan="4" rowspan="4">Welcome reception,<br>Posters (WiP),<br>Demos<br>   <br>   <br>   </td>
+    <td class="tg-9wq8" rowspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">17:45</td>
+    <td class="tg-9wq8">Day ends</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">18:00</td>
+    <td class="tg-9wq8" rowspan="2">Banquet</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">18:30</td>
+    <td class="tg-9wq8">Committee &amp; SV dinner</td>
   </tr>
 </tbody></table>
 

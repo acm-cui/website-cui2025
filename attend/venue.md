@@ -44,28 +44,64 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
   </li>
 </ul>
 
+<style>
+  .hover-zoom {
+    max-width: 100%;
+    transition: transform 0.3s ease, z-index 0.3s ease;
+    position: relative;
+    z-index: 1;
+    border: 3px solid black; /*  black outline */
+    box-sizing: border-box;  /* ensures border doesn't push image size */
+  }
+
+  .hover-zoom:hover {
+    transform: scale(2.0);
+    z-index: 10; /* bring it in front */
+  }
+
+  .row {
+    position: relative; /* allows overlap inside */
+  }
+
+  .col-lg-6 {
+    overflow: visible; /* prevent hiding the scaled image */
+  }
+</style>
+
 <div class="row">
+  <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+    <img src="{{ "/assets/img/E7-secondFloor.png" | relative_url }}" 
+    alt="Floor map of the 2nd floor of the Engineering 7 building" 
+    title="2nd floor of the Engineering 7 Building"
+         class="hover-zoom">
+  </div>
 
-<div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
-        <img src="{{ "/assets/img/E7-secondFloor.png" | relative_url }}" alt="Floor map of the 2nd floor of the Engineering 7 building" title="2nd floor of the Engineering 7 Building" class="rounded shadow" style="max-width: 100%">
-    </div>
-
- <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
-        <img src="{{ "/assets/img/E7-7th-Floor.png" | relative_url }}" alt="Floor map of the 7th floor of the Engineering 7 building" title="7th floor of the Engineering 7 Building" class="rounded shadow" style="max-width: 100%">
-    </div>
+  <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+    <img src="{{ "/assets/img/E7-7th-Floor.png" | relative_url }}" 
+        alt="Floor map of the 7th floor of the Engineering 7 building" 
+        title="7th floor of the Engineering 7 Building"
+         class="hover-zoom">
+  </div>
+</div>
+   <br/>
     
-   </div>
-   <div class="row">
+<div class="row">
+  <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+    <img src="{{ "/assets/img/E5- 6th-floor.png" | relative_url }}" 
+         alt="Floor map of the 6th floor of the Engineering 5 building" 
+         title="6th floor of the Engineering 5 building"
+         class="hover-zoom">
+  </div>
 
-<div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
-        <img src="{{ "/assets/img/E5- 6th-floor.png" | relative_url }}" alt="Floor map of the 6th floor of the Engineering 5 building" title="6th floor of the Engineering 5 building" class="rounded shadow" style="max-width: 100%">
-    </div>
+  <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+    <img src="{{ "/assets/img/E5-E7.png" | relative_url }}" 
+         alt="Mao of Engineering 5 and Enginieering 7 Buildings" 
+         title="Map of Engineering 5 and Engioneering 6 Buildings"
+         class="hover-zoom">
+  </div>
+</div>
 
- <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
-        <img src="{{ "/assets/img/E5-E7.png" | relative_url }}" alt="Mao of Engineering 5 and Enginieering 7 Buildings" title="Map of Engineering 5 and Engioneering 6 Buildings" class="rounded shadow" style="max-width: 100%">
-    </div>
-    
-   </div>
+
    <br/>
    
 ## Day 1 (8th July 2025) – Engineering 5 (E5)
@@ -89,16 +125,15 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
    </div>
 
 
-## Days 2 and 3 (9th and 10th July 2025) – Faculty Hall, 7th floor, Engineering 7 (E7)
+## Days 2 and 3 (9th and 10th July 2025) - Engineering 7 (E7)
 
 <div class="row">
     <div class="col-lg-6 col-12">
         <p>
-            The main conference program will be hosted in the <a href="https://uwaterloo.ca/engineering-ideas-clinic/" title= "Iseeas Clinic" target="_blank">IDEAs Clinic</a>, an innovative hands-on learning space on campus. The space includes:
             <ul>
-            <li>200-seat auditorium</li>
-            <li>spacious foyers for <b>poster session</b></li>
-            <li>Dedicated space for <b>coffee breaks and demos</b></li>
+
+            <li>Main plenary sessions (keynote, tutorials, papers, provocations) will be held in The Faculty Hall, 7th floor of E7 -- this is a 120 capacity auditorium with comfortable seating and individual tables. The Hall is fully accessible.</li>
+            <li>Coffee breaks, lunches, posters, and demos will be held in the Event Space on the 2nd floor of E7, a large open-space area in the indoor atrium between E5 and E7</li>
         </ul>
         </p>        
     </div>

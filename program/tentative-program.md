@@ -224,6 +224,8 @@ menus:
 .tg .tg-1bv7{background-color:#f5dca4;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-h8mw{background-color:#e9b4b8;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-xhtt{background-color:#d0c8d6;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-banquet {background-color:#A8D4D1;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-blank {background-color:#FFFFFF;border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 907px"><colgroup>
 <col style="width: 75px">
@@ -244,6 +246,15 @@ menus:
     <td class="tg-7uxt">E5-6008</td>
     <td class="tg-xhtt">E5-6127</td>
   </tr></thead>
+  <tr>
+  <td class="tg-blank"></td>
+    <td class="tg-banquet">Federation Hall</td>
+    <td class="tg-blank"> </td>
+    <td class="tg-blank"></td>
+    <td class="tg-blank"></td>
+    <td class="tg-blank"></td>
+    <td class="tg-blank"></td>
+  </tr>
 </table>
 <br />
 
@@ -262,6 +273,7 @@ menus:
 .tg .tg-vprz{background-color:#e9b4b8;border-color:inherit;text-align:center;vertical-align:middle}
 .tg .tg-6bso{background-color:#c9d6e2;border-color:inherit;text-align:center;vertical-align:middle}
 .tg .tg-9lvx{background-color:#d3e2c1;border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-banq{background-color:#A8D4D1;border-color:inherit;text-align:center;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 743px"><colgroup>
 <col style="width: 75px">
@@ -449,7 +461,7 @@ menus:
   </tr>
   <tr>
     <td class="tg-0pky">18:00</td>
-    <td class="tg-9wq8" rowspan="2">Banquet</td>
+    <td class="tg-banq" rowspan="2">Banquet</td>
   </tr>
   <tr>
     <td class="tg-0pky">18:30</td>

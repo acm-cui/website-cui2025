@@ -47,7 +47,7 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
 <div class="row">
   
   <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
-  <a href="/assets/img/E7-2nd-floor.pdf" target="_blank">
+  <a href="{{ "/assets/img/E7-2nd-floor.pdf" | relative_url }}" target="_blank">
     <img src="{{ "/assets/img/E7-secondFloor.png" | relative_url }}" 
     alt="Floor map of the 2nd floor of the Engineering 7 building" 
     title="2nd floor of the Engineering 7 Building"
@@ -56,10 +56,10 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
   </div>
 
   <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
-  <a href="/assets/img/E7-7th-floor.pdf" target="_blank">
+  <a href="{{ "/assets/img/E7-7th-floor.pdf" | relative_url }}" target="_blank">
     <img src="{{ "/assets/img/E7-7th-Floor.png" | relative_url }}" 
         alt="Floor map of the 7th floor of the Engineering 7 building" 
-        title="7th floor of the Engineering 7 Building"
+        title="7th floor of the Engineering 7 BuildinE7-7th-floor.pdfg"
         class="rounded shadow" style="max-width: 100%">
   </a>
   </div>
@@ -68,7 +68,7 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
     
 <div class="row">
   <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
-  <a href="/assets/img/E6-6th-floor.pdf" target="_blank">
+  <a href="{{ "/assets/img/E6-6th-floor.pdf" | relative_url }}"  target="_blank">
     <img src="{{ "/assets/img/E5- 6th-floor.png" | relative_url }}" 
          alt="Floor map of the 6th floor of the Engineering 5 building" 
          title="6th floor of the Engineering 5 building"
@@ -77,7 +77,7 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
   </div>
 
   <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
-  <a href="/assets/img/E5-7.pdf" target="_blank">
+  <a href="{{ "/assets/img/E5-7.pdf" | relative_url }}" target="_blank">
     <img src="{{ "/assets/img/E5-E7.png" | relative_url }}" 
          alt="Mao of Engineering 5 and Enginieering 7 Buildings" 
          title="Map of Engineering 5 and Engioneering 6 Buildings"

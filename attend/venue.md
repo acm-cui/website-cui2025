@@ -44,60 +44,45 @@ All CUI ’25 activities will take place at the **University of Waterloo**, loca
   </li>
 </ul>
 
-<style>
-  .hover-zoom {
-    max-width: 100%;
-    transition: transform 0.3s ease, z-index 0.3s ease;
-    position: relative;
-    z-index: 1;
-    border: 3px solid black; /*  black outline */
-    box-sizing: border-box;  /* ensures border doesn't push image size */
-  }
-
-  .hover-zoom:hover {
-    transform: scale(2.0);
-    z-index: 10; /* bring it in front */
-  }
-
-  .row {
-    position: relative; /* allows overlap inside */
-  }
-
-  .col-lg-6 {
-    overflow: visible; /* prevent hiding the scaled image */
-  }
-</style>
-
 <div class="row">
+  
   <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+  <a href="/assets/img/E7-2nd-floor.pdf" target="_blank">
     <img src="{{ "/assets/img/E7-secondFloor.png" | relative_url }}" 
     alt="Floor map of the 2nd floor of the Engineering 7 building" 
     title="2nd floor of the Engineering 7 Building"
-         class="hover-zoom">
+    class="rounded shadow" style="max-width: 100%" >
+    </a>
   </div>
 
   <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+  <a href="/assets/img/E7-7th-floor.pdf" target="_blank">
     <img src="{{ "/assets/img/E7-7th-Floor.png" | relative_url }}" 
         alt="Floor map of the 7th floor of the Engineering 7 building" 
         title="7th floor of the Engineering 7 Building"
-         class="hover-zoom">
+        class="rounded shadow" style="max-width: 100%">
+  </a>
   </div>
 </div>
    <br/>
     
 <div class="row">
   <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+  <a href="/assets/img/E6-6th-floor.pdf" target="_blank">
     <img src="{{ "/assets/img/E5- 6th-floor.png" | relative_url }}" 
          alt="Floor map of the 6th floor of the Engineering 5 building" 
          title="6th floor of the Engineering 5 building"
-         class="hover-zoom">
+         class="rounded shadow" style="max-width: 100%">
+  </a>
   </div>
 
   <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
+  <a href="/assets/img/E5-7.pdf" target="_blank">
     <img src="{{ "/assets/img/E5-E7.png" | relative_url }}" 
          alt="Mao of Engineering 5 and Enginieering 7 Buildings" 
          title="Map of Engineering 5 and Engioneering 6 Buildings"
-         class="hover-zoom">
+         class="rounded shadow" style="max-width: 100%">
+  </a>
   </div>
 </div>
 

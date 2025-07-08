@@ -459,14 +459,17 @@ menus:
     <td class="tg-0pky">17:45</td>
     <td class="tg-9wq8">Day ends</td>
   </tr>
+
   <tr>
-    <td class="tg-0pky">18:00</td>
-    <td class="tg-banq" rowspan="2">Banquet</td>
+    <td class="tg-0lax">18:00</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">18:30</td>
+    <td class="tg-0lax">18:30</td>
+    <td class="tg-banq" >Banquet</td>
     <td class="tg-9wq8">Committee &amp; SV dinner</td>
   </tr>
+
 </tbody></table>
 
 <br />

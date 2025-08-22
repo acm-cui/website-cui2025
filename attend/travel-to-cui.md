@@ -66,7 +66,6 @@ One of the most efficient ways to explore Waterloo is by car. There are typicall
 
 ## Getting to CUI ‘25 Venues
 At the University of Waterloo, most buildings have long names abbreviated by an acronym. Here are some helpful ones you may want to keep in mind while visiting the campus.  
-Here are some helpful ones you may want to keep in mind while visiting the campus. 
 
 <div class="row">
     <div class="col-lg-6 col-12 my-lg-0 mt-md-3 mb-4">
